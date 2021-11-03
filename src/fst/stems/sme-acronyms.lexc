@@ -9,6 +9,7 @@ SÁM+Sem/Dummytag:SÁM ACRO_ACCRA ; !kursnavn
 SAÁO+Sem/Org:SAÁO ACRO ;
 SáB+Sem/Org:SáB ACRO ;
 SÁB+Sem/Org:SÁB ACRO ;
+SVT+Sem/Org:SVT ACRO ;
 
 SáDi+Sem/Org:SáDi ACRO ; ! Sámedigge
 MuVá+OLang/UND+Sem/Org:MuVá ACRO_ACCRA ;           !  - propername says  čállinrávvagat
@@ -36,6 +37,7 @@ ráđđehus.no+Err/Lex+Sem/Txt:ráđđehus.no ACRO ; ! Why sub?
 Ráđđehus.no+Err/Lex+Sem/Txt:Ráđđehus.no ACRO ;
 SáB+Sem/Org:SáB ACRO ;
 SÁB+Sem/Org:SÁB ACRO ;
+Girku% SOS+MWE+Sem/Org:Girku% SOS ACRO ;
 Geađgenjár+Sem/Plc:Geađgenjár UNIT ; !del av navnet: Geađgenjár Niillas Asllat Ánne , bør flyttes herfra
 RáB+Sem/Org:RáB ACRO ; !Kristelig folkeparti, KrF
 Sáfá2+Sem/Dummytag:Sáfá2 ACRO ;

@@ -1184,6 +1184,7 @@ dáigá:dáigá adv ;
 dáinna% lágiin adv ;
 dáinna% lágiin+Err/Orth:dáinna% lágin adv; !
 dáinna% lágiin+Err/MissingSpace:dáinna∑#lágiin adv; !
+dáinna% lágiin+Err/MissingSpace:dáinna∑#lágin adv; !
 dáinnánaga:dáinnánaga adv ;
 dájis:dájis adv ;
 dákka:dákka adv ;
@@ -1321,6 +1322,8 @@ eará% ládje+MWE:eará LADJE ;
 eará% sadjái+Err/Orth-a-á+Err/MissingSpace:eara∑#sadjái adv; !
 čađa% gaskka+Err/MissingSpace:čađa∑#gaskka adv;
 čađa% gaskka+Err/MissingSpace:čađat∑#gaskka adv;
+ovtta% sadjái+Err/MissingSpace:ovtta∑#sadjái adv;
+ovtta% sadjái:ovtta% sadjái adv ;
 čađa% gaskka:čađa% gaskka adv ;
 čađa% áiggi+Err/MissingSpace:čađa∑#áigge adv;
 čađa% áiggi+Err/MissingSpace:čađa∑#áiggi adv;
@@ -2646,10 +2649,10 @@ maŋŋelaš+Err/Orth:maŋŋelas adv-time ;
 maŋŋelaš:maŋŋelaš adv-time ;
 maŋŋelažžii+Err/Orth:mannjelažžii adv ;
 maŋŋelažžii:maŋŋelažžii adv-time ;
-maŋŋeleappos+Err/Orth:maŋŋelabbos adv-time ;
+maŋŋeleappos+v2:maŋŋelabbos adv-time ;
 maŋŋeleappos+Err/Orth:maŋŋeleabbos adv-time ;
 maŋŋeleappos+Err/Orth:maŋŋeleabbus adv-time ;
-maŋŋeleappos:maŋŋeleappos adv-time ;
+maŋŋeleappos+v1:maŋŋeleappos adv-time ;
 maŋŋelebbui:maŋŋelebbui adv-time ;
 maŋŋeleppožii:maŋŋeleppožii adv-time ;
 maŋŋeleppožis:maŋŋeleppožis adv-time ;

@@ -231,11 +231,14 @@ Nuortadavvi-Suopma+CmpN/SgG+Err/Orth:nuorta#davvi-Suopma SUOPMA-plc ; !
 Nuortalulli-Norga+Err/Orth:nuorta#lulli-Norºga MARJA-A-plc ;
 Oarbbes-Gollum:Oarbbes-Gollum9 ANAR-plc ; !FIN
 Oarje-Finnmárku:Oarje-Finnmárºku MARJA-U-plc ;
+Oarje-Finnmárku+Err/MissingHyph:Oarje#Finnmárºku MARJA-U-plc ;
 Oarje-Romsa:Oarje-Romºsa MARJA-A-plc ;
 Oarje-Finnmárku+Err/Orth:oarje-Finnmárºku MARJA-U-plc ;
 Oarje-Romsa+Err/Orth:oarje-Romºsa MARJA-A-plc ;
 Oarjedavvi-Amerihká:Oarje#davvi-Amerihká ACCRA-plc-not-sur ;
 Oarjedavvi-Amerihká+Err/Orth:Oarje#davvi-Amerihkká SUOPMA-plc ;
+Somby+N+Prop+Sem/Sur+Pl+Loc+Err/Orth:Sombiin K ;
+Somby+N+Prop+Sem/Sur+Sg+Com+Err/Orth:Sombiin K ;
 Oarjel-Agder:Oarjel-Agder LONDON-plc-not-sur ;
 Oarjelii-Báidár:Oarjelii-Báidár ANAR-plc ;
 Oarjelii-Foalda:Oarjelii-Foalda ACCRA-plc-not-sur ;
@@ -4307,6 +4310,7 @@ Geallirnjárga:Geallir#njárºga MARJA-A-plc ;
 Geallárjávri:Geallár#jávºri MARJA-I-plc ;
 Gealovággi:Gealo#vággi MARJA-I-plc ;
 Geaobalddusbárdni:Geao#balddus#bárdni MARJA-I-obj ;
+Hánnobárdni:Hánno#bárdni MARJA-I-sur ;
 Geaptoveijohka:Geaptovei#johºka MARJA-A-plc ;
 Gearbbetjohka:Gearbbet#johºka MARJA-A-plc ;
 Gearbbetjávri:Gearbbet#jávºri MARJA-I-plc ;
@@ -13250,6 +13254,7 @@ Sieiddeávži:Sieidde#ávºži MARJA-I-plc ; !FIN
 Sieiddijohka:Sieiddi#johºka MARJA-A-plc ;
 Sieiddirášša:Sieiddi#rášºša MARJA-A-plc ;
 Sieiddá:Sieiddá MARJA-plc ;
+Sieiddá+Err/Orth:Seaiddá MARJA-plc ;
 Sieiddáguoika:Sieiddá#guojºka MARJA-A-plc ;
 Sieiddájohka:Sieiddá#johºka MARJA-A-plc ;
 Sieiddájohskáidi:Sieiddá#joh9#skájºdi MARJA-I-plc ;
@@ -18688,7 +18693,7 @@ Mutton% laulagak+MWE+CmpNP/First+N+Prop+Sem/Obj+Sg+Nom:Mutton% laulagak K ;
 Šávkkenvárri:Šávkken#várri MARJA-I-plc ;
 Čerbmen:Čerbmen LONDON-mal ;
 Luo-Mus% Máilbmi+MWE+CmpNP/First:Luo-Mus% Máilbmi MARJA-I-org ;
-Liet-Lávlut:Liet-Lávlu VARGGAT-org ;
+Liet-Lávlut:Liet-Lávlu VARGGAT-obj ;
 Mihkal:Mihkkal DUORTNUS-mal ;
 Muitte% mu+MWE+CmpNP/First:Muitte% mu MARJA-U-obj ;
 Protect% Sápmi+CmpN/SgG:Protect% Sápmi SUOPMA-org ; !
