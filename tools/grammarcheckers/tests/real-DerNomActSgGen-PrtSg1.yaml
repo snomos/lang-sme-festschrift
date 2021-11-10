@@ -10,13 +10,13 @@ Tests:
   - "Stuimmiid {lágašteami}${lágasteami} oktavuođas muhtin {girkku}${girku} ovddasteaddjit oaivvildedje ahte Guovdageainnu sámiid diagnosa lei oskkoldatlaš jallavuohta: ahte boaittobealde orrun guhkkin eret {girkku}${girku} ja eará eiseválddiin ja sámiid luonddudili siviliserekeahtes stáhtus ledje ráhkadan fantasiija, mas lei álki lohkat boastut {biibbála}${biibbala} – nappo kristtalaš jáhkku lei mannan endorii." #orrun
   - "meallun joga nalde, sihkkelastin." #meallun
   - "Mus billašuvai dihtor oalle áigá, ja divvun livčče máksit hui olu." #divvun
-  - "Lei čielggas ahte divvun veahkkeneavvu áŋgiruššá giellaberošteddjiid." #divvun
+  - "Lei čielggas ahte {divvun veahkkeneavvu}${Divvun-veahkkeneavvu} áŋgiruššá giellaberošteddjiid." #divvun
   - "Orro dego muorat doddjoje, sáittit mat fáipo ja doarrun." #doarrun
-  - "Dat gal livččui borran olbmo, gaikkodan, jos livččui leamaš luovos." #gaikkodan
+  - "Dat gal {livččui}${livččii} borran olbmo, gaikkodan, jos {livččui}${livččii} leamaš luovos." #gaikkodan
   - "áhččivuođa čilgen - máná fuolaheapmi - máná ássan - máná deaivvadanvuoigatvuođat - máná ealiheapmi (ealihanveahkki ja ealihandoarjja)."
   - "Dat lei dakkár jahki gos mun ovdánin, vásihin eanet go maid obage ledjen jurddašan ovdagihtii ja jahki gos ieš adden oahpu earáide, muhto {oažžun}¢{ožžon} hirbmat olu oahpu ruovttoluotta."
   - "Guovddážis báike- ja siidadoalus muhto {vajálduvvon}${vajálduvvan} almmolaččat."
-  - "Álgen Sámegiela ja sámi girjjálašvuođa jahkeovttadahkii go {áigun}¢{áiggun} ovdánahttit iežan sámegielmáhtu."
+  - "Álgen Sámegiela ja sámi girjjálašvuođa jahkeovttadahkii go {áigun}¢{áiggun///áigon} ovdánahttit iežan sámegielmáhtu."
   - "Mun gal ožžon {sámegieloahpahus fálaldaga}¥{sámegieloahpahusfálaldaga} iežan skuvllas, muhto mu vilbealli gal ii {oažžun}¢{ožžon}."
   - "Muhto dat dat lei ge maid mun {oažžun}¢{ožžon}, olles máilmmi bargosadjin, máilmmi davimus universitehtas sámegiel-bargin."
   - "Stuora morrašiin {oažžun}¢{ožžon} dieđu ahte Nelson Mandela lea jápmán."
@@ -67,7 +67,7 @@ Tests:
   - "Ja vivain {áigun}¢{áiggun} vel vehá háleštit."
   - "Barggadin moanaid diimmuid, hálgu luoddanii bures, {luoddun}¢{luddon} viehka lána ja {bálkun}¢{bálkon} muorravistái goikat."
   - "{Mearkun}¢{Merkon} bajás buot amas sániid ja geahččalin gávdnat daid Nielsena sátnegirjjis."
-  - "De gal {sárdnun}¢{sártnun}: boasttu guvlui lehpet boahtán."
+  - "De gal {sárdnun}¢{sártnun}: {boasttu guvlui}¥{boasttuguvlui} lehpet boahtán."
   - "Mon juo lodjun."
   - "Feaskáris čuoččastin su uvssa duohkai ja {čuožžun}¢{čužžon} das lihkaskeahttá áigebotta ja guldalin, vaikko aiddo ovdalaš ledjenge oaidnán su mannamin."
   - "{Boltun}¢{Bolton} mielabotnistan dološ dáhpáhusaid ja hutken daid vuođul oanehis ja issoras fuones muitalusaid, maid gaikkodin dan seammás."
@@ -79,10 +79,10 @@ Tests:
   - "Go ieš {oažžun}¢{ožžon} máná, de geardduhin dáhpáhusa buoremus osiid, muhto lean maŋŋá fuobmán, man láhkai vieru heiveheapmi ođđa áigái gáibidii ođastusa."
   - "Ná {oažžun}¢{oaččun} diehtit, makkár sivat konsonántaguovddážiin dahkkojuvvon feaillaide gávdnojedje ja man ollu iešguđetge čilgehusat {váikkuhehje}${váikkuhedje} feaillaid duogážis."
   - "Gal juo dan {vihkun}¢{vihkon} {ovdalgihtii}${ovddalgihtii} ahte unnán ledje sámegielagat dan lohkama mielde" 
-  - "Mun lean bargan olu vai beasan deike ja daid vásáhusaid maid {oažžun}¢{ožžon} The Voice prográmmas lea maid veahkehan olu go galggan leat TV:s njuolgga mielde juohke beaivvi, dadjá Pentha."
-  - "Mun háleštin hui olu olbmuiguin dán birra ja {oažžun}¢{oaččun} olu rávvagiid."
+  - "Mun lean bargan olu vai beasan deike ja daid vásáhusaid maid {oažžun}¢{ožžon///oaččun} The Voice prográmmas lea maid veahkehan olu go galggan leat TV:s njuolgga mielde juohke beaivvi, dadjá Pentha."
+  - "Mun háleštin hui olu olbmuiguin dán birra ja {oažžun}¢{ožžon///oaččun} olu rávvagiid."
   - "Mun {oažžun}¢{ožžon} dovddu go lohken {transsaid}${tránssaid} birra, čilgehus mii lei čállon {transsaid}${tránssaid} birra heivii juste munnje, čilge Chris Nikolas dán vahku Studio Sápmi - prográmmas."
-  - "Heahtenummiris {oažžun}¢{ožžon} dieđu ahte sáddejit helikoptera, muhto dálkki geažil fertii várra datge jorgalit, Stian muitala."
+  - "Heahtenummiris {oažžun}¢{ožžon///oaččun} dieđu ahte sáddejit helikoptera, muhto dálkki geažil fertii várra datge jorgalit, Stian muitala."
   - "In áiggo gal ovttage ávžžuhit geahppudit iežas máŋggaid kiloid, muhto mun oidnen dan golmma mánus diibmá ahte mun {geahppun}¢{gehppon} 8 kilo."
   - "Mun {njuikun}¢{njuikon} go ledjen nu ilus."
   - "Mis lei skuvllas stánda, ja de {oažžun}¢{ožžon} lihpu, das muitaluvvui veahá dán birra."
@@ -97,7 +97,7 @@ Tests:
   - "Mus lei lihkku go {oažžun}¢{ožžon} barggu."
   - "De gullen fáhkka iežan nama ja {oažžun}¢{ožžon} dieđu mannat vuitiid searvái, muitala Reinås."
   - "Mun gal dušše illudin dasa, ja {doaivun}¢{doivon} dán šaddat eanemus miellagiddevaš skuvlaáššin mii goassige leamašan rievttis."
-  - "Danin {doalvun}¢{dolvon} gávdnosa Sámemusea Siidii Anárii ja muitalin ahte doppe sáhtašii leat vel eambbo {gávdnanláhkai}${gávdnan láhkai}, muitala Seppo Saraspää."
+  - "Danin {doalvun}¢{dolvon///doalvvun} gávdnosa Sámemusea Siidii Anárii ja muitalin ahte doppe sáhtašii leat vel eambbo {gávdnanláhkai}${gávdnan láhkai}, muitala Seppo Saraspää."
   - "Diibmá {oažžun}¢{ožžon} {civccuna}${civccona} ja lávkemárffi dus!"
   - "Die lean mun, dalle go mun Pytona {sárgun}¢{sárgon}!"
   - "Die lean mun, dalle go mun Pytona ovddas {sárgun}¢{sárgon}!"
@@ -181,7 +181,6 @@ gárdun."
   - "Otná beaivái gárdun lea garrasit geahppánan ja dál Ohcejogas bivdet ámmátdásis rievssahiid dušše 3-4 olbmo."
   - "Sávvamis searvabehtet buohkat geat háliidehpet earet eará ahte Sámediggi galgá buorebut gulahallat báikegottiiguin ja eanet beroštišgoahtit áššiiguin mat gusket olbmuid árgabeaivái, dego meahcástallan (guollebivdu, lodden, gárdun, ealgabivdu ja nu ain) ja lotnolasealáhusat."
   - "Ahte beassá mohtorfievrruiguin vuodjit guvlui biergasiiguin maid dárbbaša juoŋasteami dahje gárdun oktavuođas."
-  - "Dan áiggis goas FeFo evttoha ráfáiduhttit gárduma, ođđajagemánu 1. beaivvis gitta njukčamánu 15. beaivvi rádjái, lea áigodat goas gárdun čađahuvvo."
   - "Helmen lasiha ahte jus gárdun gáržžiduvvo, de sáhttá dat váikkuhit ahte besten meahcceealáhussii nohká."
   - "Per Ivar Turi mielas gal ii leat rievssatgárdun goarideapmi rievssatnállái, dan sivas go gárdun ii álgge dábálaččat ovdal ođđajagi mánu rájes dalle go áigi čuvggodišgoahtá ja muohta lea bures boahtán ja iige bistte go njukčamánu gaskkamuddui."
   - "Iige son ge jáhke ahte gárdun nu goarida rievssahiid."
@@ -226,7 +225,7 @@ gárdun."
   - "Eai dáččat gen láven báikenamaid goargun atnit ovdal ovddit jahkečuođi {loahpageažin}${loahpageahčen}; dalle ihtigohte máddin: Bakke, Dokken, Høgda, Skognes, Finnås — ja de leavai vuohkin davás."
   - "– Ledje ollu Oskalat geat eai lean goassege fitnan Oskalis ovdal, maiddái vuorraset olbmot ja dakkárat geain lea Oskal goargun, ja sii lohke hui suohtasin fitnat doppe."
   - "Go bivdu doppe geahppánii, de fárriiga Ráttovutnii ja ásaiga báikái mii gohčoduvvui Hárrefielbmán, man Niljasguovttos geavahišgođiiga goargun."
-  - "{Islanddas}${Islánddas} geavahit vel odne dan beaivvi {«}‰{”}Finnbogi{»}‰{”} nama goargun mii mearkkaša ahte sámijuovssas lei alla árvu {atnon}${adnon} gálvu."
+  - "{Islanddas}${Islánddas} geavahit vel odne dan beaivvi {«}‰{”}Finnbogi{»}‰{”} nama goargun mii mearkkaša ahte {sámijuovssas}${sámejuovssas} lei alla árvu {atnon}${adnon} gálvu."
   - "Sii leat váldigoahtán eará namaid goargun."
   - "Leat maiddái ollu nissonolbmo namat mat geavahuvvojit goargun odne, nugo ovdamearkka dihtii Risten, Sárá, Sire ja Mággá."
   - "Dasa lassin báikenamat leat maiddái adnojuvvon olbmuid identifiseremii, daningo báikenamat leat guhká doaibman maiddái goargun."
@@ -236,7 +235,7 @@ gárdun."
   - "Son oaivvilda ahte duoji fertešii vuoruhit eanet Finnmárkku vuođđoskuvllain, vai oahppit besset geahččaladdat: ”Servodat dadjá ahte it sáhte šaddat sárgun."
   - "Vaikko dál vuos lea industriijabáikin de dat šaddá vuogas sadjin Hans Murman sárgun vistái čáppa luonddus ja gos lea várddus juohke guvlui, maiddái ođđa gávpoga guvlui."
   - "sárgun // málle // ivdni, garra duoji ja mekánalaš fága."
-  - "Eretcealkkihahtti oahpaheaddjivirggit: Gitta 4 eretcealkkihahtti oahpaheaddjivirggi mat gokčet dáid fágaid (virgeproseanta ruođuin): oahpposuorgefágat hotealla- ja biebmoávnnasfágas (92), goansta ja {kulturhistorja}${kulturhistorjá} (18), sárgun (9), ivdni (27), luonddufága (39), teknihkalaš fága (18), kanturautomašuvdna (28), suomagiella (69), duiska giella (69), {ekonomia}${ekonomiija} (16), {religiuvdna}${religiovdna} (18), {geografia}${geografiija} (10) ja {fitnodatekomonia}${fitnodatekonomiija} (30)."
+  - "Eretcealkkihahtti {oahpaheaddjivirggit}${oahpaheaddjevirggit}: Gitta 4 eretcealkkihahtti {oahpaheaddjivirggi}${oahpaheaddjevirggi} mat gokčet dáid fágaid (virgeproseanta ruođuin): oahpposuorgefágat hotealla- ja biebmoávnnasfágas (92), goansta ja {kulturhistorja}${kulturhistorjá} (18), sárgun (9), ivdni (27), luonddufága (39), teknihkalaš fága (18), {kanturautomašuvdna}${kánturautomašuvdna} (28), suomagiella (69), duiska giella (69), {ekonomia}${ekonomiija} (16), {religiuvdna}${religiovdna} (18), {geografia}${geografiija} (10) ja {fitnodatekomonia}${fitnodatekonomiija} (30)."
   - "Dat lea seamma sárgun mainna {barga}${bargá} muhtun govas maid {leaa}${lea} govven iežas vuosttaš mátkkis Sámis, muitala Alan Borvo."
   - "Hearvái lea go fáhkka ihtá juovlastálu sárgun buot dáid luonddu govaid siste."
   - "– Ja das lea ge {riegadan}${riegádan} juovlastálu sárgun maid, muitala Alan."
@@ -265,7 +264,7 @@ gárdun."
   - "Biret Máret Hætta lea dovddus maiddái sárgun girjjiide, govvaredaktevran ja čájáhushábmejeaddjin."
   - "japánalaš sárgun, lea dat mas Sunna eanemus berošta."
   - "Báddi 1. Boradeapmi etniin 7.2.1998 (24 min.) Molen ja sárgun etniin 8.2.1998 (17 min.) Báddi 2. Molen áhčiin 20.2.1998 (30 min.) Báddi 3. Buđaldeapmi etniin 15.2.1998 (45 min.) Báddi 4. Bordinspealu bardin etniin 15.2.1998 (15 min.) Molen áhčiin 20.2.1998 (14 min.) Buđaldeapmi áhčiin 20.2.1998 (16 min.) Báddi 6. Stoahkan etniin 1.3.1998 (16 min.) Báddi 10. Molen ja stoahkan áhčiin 27.3.1998 (32 min.) Stoahkan áhčiin 28.3.1998 (13 min.)"
-  - "Son lei maiddái oasálaš jurdagis ahte gávdnat {nášuvnna}${našuvnna} sielu ja son jođii boaittobeal báikkiin sárgun dihtii {«}‰{”}álbmoteallima{»}‰{”} ja álbmotbiktasiid."
+  - "Son lei maiddái oasálaš jurdagis ahte gávdnat {nášuvnna}${našuvnna} sielu ja son jođii {boaittobeal}${boaittobeale} báikkiin sárgun dihtii {«}‰{”}álbmoteallima{»}‰{”} ja álbmotbiktasiid."
   - "Go ii leat njuohtan symmetriija, de ii dárbbaš mearkkašit ahte Johan Turi ii leat máhttán dan dahkat, muhto son čuovvu vieru mii lei go herve skáhpuid ja lihtiid dan áiggi: Ii lean symmetriija, muhto baicce friija sárgun mii stivrii hervema."
   - "Demant-Hatt lei skeŋken dáid reivviid museai 1940-logus ja dasa lassin Turi girjjiid (MSB ja Sámi deavsttat) giehtačállosiid, su sárgun govaid ja eará tiŋggaid maid lei ožžon Turis skeaŋkan."
   - "Dásseárvolága vuođul gáibiduvvo dássedis sohkabealovddasteapmi almmolaččat nammaduvvon stivrrain (min vuolláisárgun)."
@@ -277,7 +276,6 @@ gárdun."
   - "áššehasplána mielde máná ja bearraša doarjun."
   - "Jus giela oahppama doarjun ii oaččo doarvái fuopmášumi, dilli sáhttá doalvut sámegielat máná suomaiduvvamii, giela molsašuddama suomagiellan."
   - "Mánáid beaivedivššus addojuvvon ásahusa (239/1973/239) 1 a § (1336/1994/1336) mielde máná beaivedivššu ulbmiliidda gullá earret eará sápmelaččaid iežas giela ja kultuvrra doarjun ovttasbargguin dán kultuvrra ovddasteddjiiguin."
-  - "Dasto lea vuolláičállojuvvon máŋggajahkásaš rámmašiehtadus Sámeráđiin doarjun dihtii sin riikkaidgaskasaš olmmošvuoigatvuođabarggu."
   - "Dássážii lea bargui gullan eanašin politihkalaš doarjun, muhto Sámi dearvvašvuođadutkanguovddáš oassálastigoahtá vehážiid vehážiid dutkan- ja dokumentašuvdnaovttasbargui."
   - "Birasgáhttendepartemeantta arvvosmahttinprográmmabarggus doarjun dihtii ja movttiidahttin dihtii gielddaid, organisašuvnnaid ja ealáhuseallima bargat Báikkálaš Agendain (BA 21), lea dahkkojuvvon {golmmajagi}${golmma jagi} ovttasbargošiehtadus Sámedikkiin geahččaladdan dihtii BA 21 sámi čanusbáikki."
   - "Sihke skiipaeaiggádiid lihttu (Rederforbundet) ja industriijalihttu (Industriforbundet) dovddahedje 1925 čielgasit ahte sii guđđet ovddeš viiddis gáibádusaid ja vuordámušaid olgoriikabálvalussii (doarjun dihtii ealáhuseallima) stáhta heajos ruhtadili geažil."
@@ -298,7 +296,7 @@ gárdun."
   - "Sámedikki eanetlohku šálloša go Stuoradiggi ii leat lasihan ruhtajuolludeami Sámediggái ođđa doaimmaide, ja dan geažil sirddiimet 300.000 ruvnnu guovttegielalašvuođaruđain eará kapihttalii doarjun dihte Billávuona gelbbolašvuođaguovddáža ja Jáhkovuona Mearrasámi musea."
   - "Ferte ásahuvvot oktavuohta eamiálbmotjoavkkuiguin ja organisašuvnnaiguin doarjun dihte sin barggu olmmošvuoigatvuođaiguin ja kultursuodjalemiin."
   - "Šiehtadusa doarjun sáhttá geavahuvvot sámi vuoigatvuođalaččaid vuostá, ja eará álgoálbmogiid vuostá geain leat {sullásaš}${sullasaš} vuoigatvuođaid, boahttevaš vuoigatvuođaproseassain."
-  - "Ovttasbargošiehtadusat gielddaiguin ja fylkkagielddaiguin ferte eanet hábmet detáljadásis doarjun dihte daid dárbbuid mat sámi servodagas leat ovddabealde."
+  - "Ovttasbargošiehtadusat gielddaiguin ja fylkkagielddaiguin ferte eanet hábmet {detáljadásis}${detálljadásis} doarjun dihte daid dárbbuid mat sámi servodagas leat ovddabealde."
   - "Boazodoallošiehtadus várre jahkásaččat 2,0 miljon ruvnnu Sámedikki bušehttii doarjun dihtii dakkár lotnolasealáhusaid main boazodoallu lea mielde."
   - 'Lasáhus čuoggái 3.5 {"}‰{”}strategiijat{"}‰{”} Váikkuhit árjjalaččat dasa ahte ásahuvvo Árbediehtoguovddáš nannen dihtii duođaštanbarggu ja sihkkarastin dihtii sámi árbedieđu, ja doarjun dihtii birrasiid mat barget árbedieđuin.'
   - "Váikkuhit árjjalaččat dasa ahte ásahuvvo Árbediehtoguovddáš nannen dihtii duođaštanbarggu ja sihkkarastin dihtii sámi árbedieđu, ja doarjun dihtii birrasiid mat barget árbedieđuin."
@@ -312,7 +310,7 @@ gárdun."
   - "Guovddáža barggut leat sápmelaččaid filbma, tv- ja mediafitnodagaid doarjun, sámefilmmaid ja tv-prográmmaid buvttadeapmi, skuvlejumi plánen, sámefilmmaid vuovdaleapmi, guovllu vuovdaleapmi, eamiálbmogiid filbmaarkiivan ja diehtobáŋkun leahkin ja Skábmagovat-filbmafestivála ordnen."
   - "Sámedikkis ii leat sierra ruhtadanmomeanta sámegiela lohkama doarjun várás, vaikkoge sámediggi leage dakkára evttohan."
   - "Ođđa doaibman maid doarjut evttohuvvo sámi valástallan- ja lihkadandoaimma doarjun."
-  - "Dasto lea vuolláičállojuvvon máŋggajahkásaš rámmašiehtadus Sámeráđiin doarjun dihtii sin riikkaidgaskasaš olmmošvuoigatvuođabarggu."
+  - "Dasto lea vuolláičállojuvvon máŋggajahkásaš rámmašiehtadus {Sámeráđiin}${Sámiráđiin} doarjun dihtii sin riikkaidgaskasaš olmmošvuoigatvuođabarggu."
   - "Sámegiela doarjun ja suodjaleapmi lea diehttelas {miha}${mihá} viidát ja stuorát ášši go dat ahte sámi aviissat galget ceavzit."
   - "Bismmaid homofiliija doarjun."
   - "Kjell Varsi muitala ahte galgá lávvordaga leat musihkkakonsearta doarjun dihte Tibeta álbmoga."
@@ -379,7 +377,7 @@ gárdun."
   - "- Olmmošvuoigatvuođaid doarjun lea guovddášáššin {NSRii}${NSR:i}, dan dihte mii doarjut TV-akšuvnna, lohká NSR Jánoš Trosten."
   - "OALLUGAT: {Birrasit}${Birrasii} beannotčuođi olbmo vázze doarjun dihte buoret dili Guovdageainnu nuoraide, spáiddarráiddus {distaga}${disdaga}."
   - "Fidnu birra dahkkon badjel golmmalogi čielggadeamis boahtá ovdan Sámekulturguovddáža stuorra mearkkašupmi Anárii ja olles Davvi-Sápmái nu buresbirgema, ealáhusaid ja barggolašvuođa movttiideaddjin go maiddái kultuvrra doarjun."
-  - "Imaštallat ferte maid ahte leago Johtti Sápmelaččat searvvi doarjun sámikultuvra doarjumis buot deháleamos ášši."
+  - "Imaštallat ferte maid ahte leago Johtti Sápmelaččat searvvi doarjun {sámikultuvra}${sámekultuvra} doarjumis buot deháleamos ášši."
   - "Nubbin kriteran lei čielgasit lávdegotti lahtuid duogášservviide gullan dahje daid doarjun."
   - "Dakko gokko ovddit Ovddádusbellodaga doarjun ráđđehusas váillui doaibmanákca, lea dálá ráđđehus čoavddusdiđolaš váttis dilálašvuođas - dilálašvuođas masa ovddit ráđđehus lea dagahan riikka."
   - "Prošeakta lea Eurohpá Uniovnna doarjun Interreg III - fidnu, man sisriikkalaš ruhtadeaddjit leat Lappi leanaráđđehus, Davvikalohttaráđđi, Statens {Kulturrådet}${Kulturråd}, Ruoŧa Sámedikki Kulturráđđi, Norgga Sámedikki Kulturráđđi, Norsk Kulturråd ja ABM-utvikling."
@@ -439,7 +437,7 @@ gáibiduvvo dárkun, dokumenteren, reflekšuvdna, vuogádatlaš árvvoštallan j
   - "Muhto mearkun šattai álgit guokte vahku ovdal go báhkat bohte ja bohccot de álge bálgat jiehkkái gos lea {čoasu}${čoasus}."
   - "Jávrenjárggaid atne bohčimii 1800-logu loahpa rájes ja várra vel ovdalnai gitta 1950-logu loahpa ja 1960-logu álgojagiid rádjái ja dálá áigge dat lea oarjániid {miesse mearkun guovlu}¥{miessemearkunguovlu}."
   - "Maiddái lea illudahttin go ng. karbonafáhten ja – vuorkun dál gullá ruoná ovdánahttimekanisma vuollái, man ektui Norga guhkitáiggi lea bargan, lohká Stoltenberg."
-  - "Oktasaš vuorkun mearkkaša ahte ossodagat go álggahit ođđa dahje ođastit gávdni dihtorvuogádagaid galget árvvoštallat láhččet vuođđodieđuid mášiidnalohkanhápmái ja nu ahte leat olámuttos."
+  - "Oktasaš vuorkun mearkkaša ahte ossodagat go álggahit ođđa dahje ođastit gávdni dihtorvuogádagaid galget árvvoštallat láhččet vuođđodieđuid {mášiidnalohkanhápmái}${mašiidnalohkanhápmái} ja nu ahte leat olámuttos."
   - "Galgá mearriduvvot gii galgá fuolahit arkiverema ja ahte vuorkun dáhpáhuvvá dohkálaš vuogi mielde."
   - "Náránašgeađgi gurpun."
   - "– Earret Náránašgeađggi gurpun, lea mis {čoalddabálkumat}${čuoldabálkumat}, 24 kilosaš lotta áibmui bálkesteapmi, veavtta bálkestit, jorba 120-180 kilosaš atlas-geđggiid loktet stellegiidda ja dáid gilvvuide bohtet geavrras olbmot miehtá máilmmi, maiddái máilmmimeašttir Erenomáš lea go gilvvut leat gaskaija áigge, muitala Nilsen."
@@ -506,7 +504,7 @@ gáibiduvvo dárkun, dokumenteren, reflekšuvdna, vuogádatlaš árvvoštallan j
   - "RKTL oaččui goittotge 1997 čakčat sierralobi buktit Doallánjoga luosa meađđemiid hávdun dihte Supmii."
   - "Maiddái julggiid hávdun vuššojuvvon guohcarássečázis veahkehii nugo maid julggiid hávdun liegga {sáttohávdamin}${sáttohávddain}."
   - "Čázi jogo juhke dahje geavahedje earret eará julggiid lávggodeapmái leasmmi dikšumis hávdun dárkkuhusas."
-  - "{MEARRA SÁMI}¥{MEARRASÁMI} IRONIIJA: {Mearra sámi}¥{Mearrasámi} girječálli, fálesnuorrilaš Marion Palmer leaikkastalai Hámmárfeastalaččain ja logai Muolkku dola návdun {«}‰{”}Biro dollan{»}‰{”}."
+  - "{MEARRA SÁMI}¥{MEARRASÁMI} IRONIIJA: {Mearra sámi}¥{Mearrasámi} girječálli, fálesnuorrilaš Marion Palmer leaikkastalai {Hámmárfeastalaččain}${Hámmerfeastalaččain} ja logai Muolkku dola návdun {«}‰{”}Biro dollan{»}‰{”}."
   - "Bálgáid gollan ja govdun vuhtto duovdagis ja heađušta vánddardanvásáhusa."
   - "Fanas mii šat ii govdun lei menddo buorre geavahit boaldámuššan."
   - "– Nu guhká go dus lea skohter, lohpi dainna vuodjit, {govdun bivttas}¥{govdunbivttas} ja oaivesuodji de gal oaččut searvat."
@@ -526,7 +524,7 @@ gáibiduvvo dárkun, dokumenteren, reflekšuvdna, vuogádatlaš árvvoštallan j
   - "Sámi soga lávlaga lávlun Dii 14.15: Bovdejuvvon guossit ja sámediggeáirasat leat gávdnan iežaset saji málesbeavddis Dii 14.20: Beaivemállásat ovttas gonagaspárain."
   - "Lávdedáidda lea viiddis fágasuorgi ja dasa gullet dánsun, {dráma}${drámá}, lávlun ja eará dáiddalaš ovdanbuktinhámit."
   - "Muohtabiedju, lávlun ja olu eará ..."
-  - "Lávlu Anne Britt Sara ja Juhána Risten leaba válljejuvvon váldo lávlun - ja dat lei vissa riekta."
+  - "Lávlu Anne Britt Sara ja Juhána Risten leaba válljejuvvon {váldo lávlun}¥{váldolávlun} - ja dat lei vissa riekta."
   - "Nu go juo leage buot eará lávlun ja juoigan gilvvohallan de ferte leat jury mii galgá árvvoštallat luđiid."
   - "Iŋgá Juuso lea mannan beassážiid juoigan fárrolaga {Sven:ain}${Svenain} Sámi Grand Prix {lávlun gilvvuiguin}¥{lávlungilvvuiguin}."
   - "Muhto dál lea maiddái {lávlun oassi}¥{lávlunoassi} rievdamen, seamma ládje go luohti lea rievdan {ođđaáigasažžan}${ođđaáigásažžan}."
@@ -534,17 +532,17 @@ gáibiduvvo dárkun, dokumenteren, reflekšuvdna, vuogádatlaš árvvoštallan j
   - "Doppe lea kursa {sirkkusakrobatihkkas}${sirkusakrobatihkas} ja de galgá Ulla {Pirtijärvi}${Pirttijärvi} mánáide duollat lávlun ja juoigan {bottuža}${bottoža}."
   - "Dál son lea čállán ja heivehan lávlun {teavsttai}${teavsttaid} sámi {ártisttaide}${artisttaide} nugo Lars Olof {Juusui}${Juusoi} {Treriksöset}${Treriksröset} joavkkus, {Iŋggur}${Iŋgor} Ántte Áilui ja eará sámi beakkálmasaide."
   - "Mun maid bessen {geahccalit}${geahččalit} juoigat, ja {gaskohagaid}${gaskkohagaid} {lávlun}¢{lávlon}."
-  - "Maiddái {Máttávárjjat}${Mátta-Várjjat} {lávlun koarra}¥{lávlunkoarra} ja Snoasa {orkestersearvi}${orkeastarsearvi} oaččui doarjaga kultuvraráđis."
+  - "Maiddái {Máttávárjjat}${Mátta-Várjjat} {lávlun koarra}¥{lávlunkoarra} ja Snoasa {orkestersearvi}${orkeastarsearvi} oaččui doarjaga {kultuvraráđis}${kulturráđis}."
   - "Buot dáin nuorain geat servet galget báhcit vel golbma ovttadaga juoigan ja lávlun oasis."
   - "– Juo de lean, lean álggos koaras lávlun go ledjen {mánna}${mánná} ja go ledjen 11 čužžon {vuottaš}${vuosttaš} geardde studios."
   - "Dál maŋimuš áiggi lean {Göteborggas}${Göteborgas} leamaš lávlun skuvllas gos ohppen hui olu."
-  - "FILBMADAHKIT: Ken Are Bongo ja Linda Øverli Nilsen lohkaba ahte {“}‰{”}HEI LOLA” {dokumeantára}${dokumentára} galgá čájehit {posetiiva}${positiiva} beliid dán lávlun // {juoigan gilvvus}¥{juoigangilvvus}."
+  - "{FILBMADAHKIT}${FILBMADAHKKIT}: Ken Are Bongo ja Linda Øverli Nilsen lohkaba ahte {“}‰{”}HEI LOLA” {dokumeantára}${dokumentára} galgá čájehit {posetiiva}${positiiva} beliid dán lávlun // {juoigan gilvvus}¥{juoigangilvvus}."
   - "{Áilluhaš}${Áillohaš} dahje Nils Aslak Valkeapää lei dovddus olles máilmmis čeahpes diktačállin, juoigin, lávlun, čállin ja vuoiŋŋalaš jođiheaddjin."
   - "Dál lea mearriduvvon geat besset searvat Sámi Grand Prix 2004 {lávlun oassai}¥{lávlunoassái}."
   - "Buot dan rájes ahte dohkkehuvvot sámi lávlun, báikkálašbirrasii heiveheami bokte gitta garra juhkankultuvrii muitaluvvo liekkus vugiin, juoga maid eai beare {ollusat}${olusat} earát go juste Ámmun Johnskareng livčče sáhttán dahkat."
   - "– Marit Elisabeth Hætta Øverli lávlun ja juoigan bures vuostáiváldui Reykjavikas, ja máŋggas jearahedje su oažžut Reykjavikii maŋŋil olles čuojahanjoavkkuin."
   - "Margaret Berger šattai nubbin Norgga Idol-gilvvus dán jagi, ja son lea šaddan hui dovddus lávlun Norggas."
-  - "RYTMÁLAŠ: Tanzania {Masaiai}${Masaiaid} lávlun lei sihke {rytmálaš}${rytmmalaš} ja {liinis}${linis}."
+  - "{RYTMÁLAŠ}${RYTMMALAŠ}: Tanzania {Masaiai}${Masaiaid} lávlun lei sihke {rytmálaš}${rytmmalaš} ja {liinis}${linis}."
   - "Nils Olav Johansen erenoamáš juoigan ja {lávlun jietnageavaheapmi}¥{lávlunjietnageavaheapmi} lea stuoris."
   - "Audition 8/2 – 2005/8 Ensemble Nord hárjehallanlanjain, Hesteskoen 1 (2. geardi poastavisttis) lávlun geahččalemiin ja {iešvállejuvvon}${iešválljejuvvon} teaksta {ovdánbuktimiin}${ovdanbuktimiin} davvisámegillii."
   - "Ávvudoalut álget olgoarenas Dálvadisjávrris diibmu 13.00. Sámedikki presideanta Lars-Anders Baer doallá sártni ja doppe galgá maid leat juoigan ja lávlun."
@@ -565,7 +563,7 @@ gáibiduvvo dárkun, dokumenteren, reflekšuvdna, vuogádatlaš árvvoštallan j
   - "- Málen ja lávlun heiveba oktii, go dat addet movtta ja luvvejit olbmo dovdočuolmmaid."
   - "Eŋgelat oidnojedje ja eŋgeliid lávlun čuojai."
   - "Dáin dilálašvuođain soai beassaba deaivvadit oahppásiiguin, muhto iešalddis lea dat lávlun mii leat somá."
-  - "Guokte {jurie}${jury} válljeba guhtta lávlaga lávlun loahppagilvvuide ja 10 juoiganluohkkái."
+  - "Guokte {jurie}${jury} válljeba guhtta lávlaga {lávlun loahppagilvvuide}¥{lávlunloahppagilvvuide} ja 10 juoiganluohkkái."
   - "Buohkat čuvvo dárkilit go lávlun oahpaheaddji Inger Marie Guttorm Paulen {neavui}${neavvui} lávluma."
   - "Maiddái gitaristta, juoigi ja lávlu Nils Olav Johansena erenoamáš {lávlun jietnageavaheapmi}¥{lávlunjietnageavaheapmi} lea etnalaš."
   - "Mis lei dakkár karaoke lávlun, ja mun in muitán šat teavstta."
@@ -578,23 +576,23 @@ gáibiduvvo dárkun, dokumenteren, reflekšuvdna, vuogádatlaš árvvoštallan j
   - "Dattetge lohká lávlu sátnejođiheaddji lávlun dál eanaš gullá dušše priváhta eallimii, politihkka fas almmolaš eallimii."
   - "Vaikko vel politihkka dál lea guovddážis Ann-Jorida beaivválaš {doammain}${doaimmain} de lohká son lávlun lea šaddan dego terapiijan sutnje."
   - "- Mun lean vásihan ahte politihkka lea mealgat {moalkáset}${moalkát} hommá go musihkka ja lávlun."
-  - "Árvvoštallamat geat leat čállán dán gilvvu birra, lohket dán lávlun // juoigan lávlaga leat hui erenoamáš go ii {sulástan}${sulastan} {maŋge}${mange} eará lávlaga maiguin Norga lea oasálastán Eurohpá Lávlungilvvus."
+  - "Árvvoštallamat geat leat čállán dán gilvvu birra, lohket dán lávlun // juoigan lávlaga leat hui erenoamáš go ii {sulástan}${sulastan} {maŋge}${mange} eará lávlaga maiguin Norga lea {oasálastán}${oassálastán} Eurohpá Lávlungilvvus."
   - "Ledkova juoigan dahje lávlun govve fas {nenetzáriid}${nenetsaid} eallima stuorra {viiddis}¢{viiddes} tundras dahje duoddariin."
   - "Su eamit Gerd lei lávlu, ja Ørnulv lei maid čeahppi lávlut ja doalahii ovdalaš áiggi šuokŋamáhtu ja {sutno}${sudno} ruovttus lei ollu lávlun ja musihkka."
   - "{Vuočulaš}${Vuohččulaš} nisu Tiina Aikio muitala musihka ja lávlun lea vuogas ja miellagiddevaš astoáigge doaibma."
-  - "Muhto liikká lea lávlun ja musihkka munnje dego liige borramuššan, man haga in birgešii, lohká son."
+  - "Muhto liikká lea lávlun ja musihkka munnje dego liige borramuššan, man haga in {birgešii}£{birgeše}, lohká son."
   - "Dáppe leat fálaldagas maiddai turisttaide oaivvilduvvon kulturdoalut; dánsun ja lávlun."
   - "Jesus lei guovddážis, máidnun ja lávlun gullui doppe."
   - "Dáidda searvvai son lávlun dalle go lei {joatkaskuvllaágis}${joatkkaskuvllaagis}."
   - "Agnethe Kristin Johnsen lea dušše guoktenuppelot jahkásaš, dattetge lea son guhkesáigge juo lávlun lávddis."
   - "Danne lea son dál 12 jahkásažžan juo ollu jagiid lávlun lávddis."
-  - "Oktiibuot oasálaste 10 unnitálbmot {lávlun joavkku}¥{lávlunjoavkku} dán jagi Liet {internašunála}${internationála} lávlungilvvus."
+  - "Oktiibuot {oasálaste}${oassálaste} 10 unnitálbmot {lávlun joavkku}¥{lávlunjoavkku} dán jagi Liet {internašunála}${internationála} lávlungilvvus."
   - "{Áinnat}${Oainnat} sihke juoigan, lávlun ja neaktin gáibida ahte olmmoš lea sávri."
-  - "Inga Rávná Eira gii ieš lea oahpaheaddji Sámi Joatkaskuvllas Kárášjogas lohká ahte áinnas galggašii dálá nuoraide fállat dákkáraš lávlun bottuid."
-  - "Sámi musihkkafestivála lágida beassášlávvordaga juohke jagi {SGP lávlun}¥{SGP-lávlun} ja juoigangilvvu, ja sii háliidivččii dál ahte juigiin galgá leat vejolašvuohta vuoitit saji Sámi Grand Prixii juo {ovdalgihtii}${ovddalgihtii} skábmadoaluin, juoigankonsearttas, Guovdageainnus."
+  - "Inga Rávná Eira gii ieš lea oahpaheaddji Sámi {Joatkaskuvllas}${Joatkkaskuvllas} Kárášjogas lohká ahte áinnas galggašii dálá nuoraide fállat dákkáraš {lávlun bottuid}¥{lávlunbottuid}."
+  - "Sámi musihkkafestivála lágida beassášlávvordaga juohke jagi {SGP lávlun}¥{SGP-lávlun} ja juoigangilvvu, ja sii {háliidivččii}£{háliidivčče} dál ahte juigiin galgá leat vejolašvuohta vuoitit saji Sámi Grand Prixii juo {ovdalgihtii}${ovddalgihtii} skábmadoaluin, juoigankonsearttas, Guovdageainnus."
   - "Earret eará Ruošša lávlun, {Kalaallit Nunat}${Kalaallit Nunaat} dánsun ledje oassin AWG {kultuvprográmmas}${kulturprográmmas}."
   - "- Sin lávlun lea dego min {juoiogan}${juoigan}, ja sis leat maid dego lávut gos ijastallet."
-  - "Sutnje lea lávlun asttoáiggedoaibma, muhto áigu ain joatkit čállit lávlagiid, luđiid, teavsttaid, poesiija."
+  - "Sutnje lea lávlun {asttoáiggedoaibma}${astoáiggedoaibma}, muhto áigu ain joatkit čállit lávlagiid, luđiid, teavsttaid, poesiija."
   - "Dikta, musihkka, lávlun ja juoigan."
   - "Cesare Bonizzi álgi liikot heavy-metala 15-jagi aige, go gulai Metallica čuojaheamen, ja son lea {lávlun}¢{lávlon} Fratello Metallos 10 jagi."
   - "Sárá Márjá Guttorm lea {moaddegoalmmatlot}${moaddegoalmmátlot} jagi boaris, son lea lávlun Cretura garra metal-joavkkus Bergenis."
@@ -609,15 +607,15 @@ gáibiduvvo dárkun, dokumenteren, reflekšuvdna, vuogádatlaš árvvoštallan j
   - "Pakistana lávlun muittuha luođi."
   - "Ja lávlun dat lei ge mii dagai su dovddusin 80 logus."
   - "Muhto Mari Boine lávlun dahká dan earenoamážin, ja su lávlun doalvvui jurdagiid filbmalávlagii."
-  - "Afriikagiella ja lávlun lokte dási, dan seamma dahket čuojanasat."
+  - "{Afriikagiella}${Afrihkágiella} ja lávlun lokte dási, dan seamma dahket čuojanasat."
   - "Muhto dat mii dás lea buot buoremus lea Mari Boine lávlun."
   - "Ja dáid lávlagiiguin lea son šaddan {dovddusis}${dovddus} lávlun sámiid {gaskas}${gaskkas}, go dál áin {hálidit}${háliidit} guldaleaddjit gullat su lávlumin erenoamážit Sámi Radio Ávvudanbottus."
   - "Dál lea juo badjel moaddelot jagi orron doppe, ja lea šaddan oalle {dovddusis}${dovddus} lávlun doppe."
-  - "Dán jagi fállá {musihkkafeastivála}${musihkkafestivála} {fálla}${fállá} sihke luohte ja lávlla vuoitái konseartta lágideami boahtte jagi {beassádoaluid}${beassášdoaluid} oktavuođas ja lávlun {ártista}${artista} oažžu {vihtalot}${vihttalot} duhát ruvnnu dan ovddas, juoigi ges golbmalot duháha, earret dan supmi máid oažžu go vuoitá dál beassážiid."
+  - "Dán jagi fállá {musihkkafeastivála}${musihkkafestivála} {fálla}${fállá} sihke luohte ja {lávlla vuoitái}¥{lávllavuoitái} konseartta lágideami boahtte jagi {beassádoaluid}${beassášdoaluid} oktavuođas ja lávlun {ártista}${artista} oažžu {vihtalot}${vihttalot} duhát ruvnnu dan ovddas, juoigi ges golbmalot duháha, earret dan supmi máid oažžu go vuoitá dál beassážiid."
   - "Vuohčus ja lea loaiddastan lávddi ala sihke neavttárin ja lávlun ja sus leat ilbman guokte {cd:a}${cd}."
   - "Giellamovttiidahttin, muitalusat, lávlun ja dánssun."
   - "Dasa lassin hutkojuvvojedje ođđa barggut nu go govven, pizzabuvdaduhkoraddan, drámá ja lávlun girkus."
-  - "Áddjá lei kristtalaš, guhte doaimmai guhká girku luhkkárin ja buohkat dihte su čeahpes sálbma lávlun, muhto oktage su áddjubiin ii lean gullan su juoigamin dahje su juoiganmáhtus."
+  - "Áddjá lei kristtalaš, guhte doaimmai guhká girku luhkkárin ja buohkat dihte su čeahpes {sálbma lávlun}¥{sálbmalávlun}, muhto oktage su áddjubiin ii lean gullan su juoigamin dahje su juoiganmáhtus."
   - "Dan ođđa politihkalaš vuosttaldeamis leat golmma riikka sápmelaččat mielde sihke {rápparin}${ráppárin}, lávlun, juoigin ja dáiddárin."
   - "3.1 Sámi ráppen ja lávlun dutkanvuođđun."
   - "Etnihkalaš symbolismma gaskaoapmin šaddet almmolaš beroštupmi ruohttasiin, vehádatgiela geavaheapmi almmá čielga gulahallanfunkšuvnna haga, erenomáš dilálašvuođaide laktáseaddji folkloristtalaš geavahagat dego gárvodeapmi, čiŋat, dánsun dahje lávlun."
@@ -638,7 +636,6 @@ gáibiduvvo dárkun, dokumenteren, reflekšuvdna, vuogádatlaš árvvoštallan j
   - "Dat mas lea oalle unnán dán rádjái ságastallojuvvon leat birasnuppástusat dego čáziid suvrun ja dálkkádaga rievdan."
   - "Otná beaivve boazodoallu {heibo}${heaibu} oaivve ođđalágan váttisvuođaiguin: dálkkádaga nuppástus ja áimmu suvrun."
   - "Goalmmát stuorra áittan Deanu lussii leat birasnuppástusat, omd. čáziid suvrun ja dálkkádaga rievdan."
-  - "Máilmmiviidosaš birasváttisvuođat, dego mearaid nuoskkideapmi, eanavuođu ja čázádagaid suvrun, áibmogearddi rievdan ja ekosystemaid máŋggaláganvuođa geahppáneapmi leat bajidan oarjemáilmmi riikkain gáibádusaid ahte olbmo ja luonddu gaskavuođat galget ođđasamos dieđu vuođul guorahallojuvvot ja juobe njulgejuvvot vejolašvuođaid mielde."
   - "Ja mii son suvrun láibbi nala, sáhpána buoidi go?"
   - "Máilmmiviidosaš {birasváttisvuoðat}${birasváttisvuođat} dego {eanavuoðu}${eanavuođu} ja čáziid suvrun ja áibmogearddis dáhpáhuvvan nuppástusat galggašedje boktit olbmuid áddet ahte ná ii sáhte guhká joatkit."
   - "Diet vilges sáimmažiid boaibmun lea {dieđos}${dieđus} dutkanbargu dahje dan ovdasaš, imaštallan, áiccadeapmi ja iskkadeapmi."
@@ -692,8 +689,8 @@ gáibiduvvo dárkun, dokumenteren, reflekšuvdna, vuogádatlaš árvvoštallan j
   - "Oahpahusa áigáioažžun lea váttis, go sámegiela oahpahus lea ruovttuguovllu olggobeale skuvllaide, {rektoraidda}${rektoriidda} ja oahpahusvirgeoapmahaččaide ođđa ja amas ášši."
   - "Ulbmilin lea bissovaš málle áigáioažžun giela ealáskahttima ja suddjema várás, dajai Näkkäläjärvi."
   - "Bargu čájehii, man dihtomielalaččat ja áŋgirit {Biehtar}${Biehtár} Ánde vujii dáid lossa vuoigatvuođalaš áššiid ovddos jagis jahkái, vaikke čovdosa áigáioažžun čájehii máŋgii goasii doaivvuheapmin."
-  - "Lei nu ollu olmmoš ahte bivastagat golge ja illá lei čuožžun sadji sidjiide geat ledje boahtán su guldalit."
-  - "Seammás sáhttá sámi {čuožžun sajis}¥{čuožžunsajis} dadjat áibbas čielgasit {ovttat manus}¥{ovttatmanus}, ahte ráđđádallanšiehtadus ii leat doarvái buorre, nugo Norgga njunuš politihkkarat čuoččuhedje debáhtas."
+  - "Lei nu ollu olmmoš ahte bivastagat golge ja illá lei {čuožžun sadji}¥{čuožžunsadji} sidjiide geat ledje boahtán su guldalit."
+  - "Seammás sáhttá sámi {čuožžun sajis}¥{čuožžunsajis} dadjat áibbas čielgasit {ovttat manus}¥{ovttatmanus}, ahte ráđđádallanšiehtadus ii leat doarvái buorre, nugo Norgga {njunuš politihkkarat}¥{njunušpolitihkkarat} čuoččuhedje debáhtas."
   - "Aisttan vel ovtta girječálli, Samuel Johnsona: ” Gieđaid speažžun ovttaskas olbmui mearkkaša ollu."
   - "Stávvaliid speažžun ja čuodjalit cealkin lei dábálaš sihke dárogiel oahpahusas ja sámegieldiimmuin."
   - "Heahpatčiehka ja speažžun."
@@ -750,7 +747,7 @@ gáibiduvvo dárkun, dokumenteren, reflekšuvdna, vuogádatlaš árvvoštallan j
   - "Bagadallan ja dieđuid oažžun lea dehálaš doarjjaohcama oktavuođas."
   - "41 vástideaddji (36 %) vástidedje ahte sii válde oktavuođa Sámedikkiin gullan dihtii lea go prošeakta dakkár ahte dasa sáhtášii doarjaga oažžut, ja 42 (37 %) vástideaddji čálle ahte sii doarjjaohcama oktavuođas válde oktavuođa Sámedikkiin oažžun dihte oppalaš dieđuid."
   - "Suohkan fertii oalle garra bargguid čađahit oažžun dihtii giela ruovttoluotta."
-  - "Muhtun oktavuođain čađaheimmet maid telefunjearahallama maŋŋel go leimmet leamaš suohkanis, oažžun dihtii sin ságaide geat eai lean báikkis dalle go finadeimmet doppe."
+  - "Muhtun oktavuođain čađaheimmet maid {telefunjearahallama}${telefonjearahallama} maŋŋel go leimmet leamaš suohkanis, oažžun dihtii sin ságaide geat eai lean báikkis dalle go finadeimmet doppe."
   - "Suohkana jođiheaddjit čujuhit maid dasa ahte suohkan barggai hui áŋgirit fylkasuohkaniin ja Vaapste joatkkaskuvllain oažžun dihte oasi eanadoallolinnjás Árbordii."
   - "Sámedikki jienastuslogu máŋgosa oažžun."
   - "Sámegielat bálvalusaid oažžun girkolaš doaimmahusaid, degomat hávdádusaid, gástta ja vihaheami oktavuođas lea vejolaš sámiid ruovttuguovllus, mii lea sámebáhpa doaibmanguovlu."
@@ -831,7 +828,7 @@ gáibiduvvo dárkun, dokumenteren, reflekšuvdna, vuogádatlaš árvvoštallan j
   - "Dan vuođul sáhttá ge dán teavstta maid geahččat sámi siskkáldas atnui ja maiddái olggosguvlui, go lea olu šiggun olggobeale sisabahkkejeddjiid ektui."
   - "Mielahis vástádus ja geatnegahtton njeazzun."
   - "- Lassin viesuide ja mánáidgárddiide, dáhkidit mii dutnje {Nárviikas}${Narviikkas} dakkár lohkanáigodaga gos vásihat somás vásáhusaid juogo čuoiggadettiin gaskaijabeaivvážis, golfa máilmmi davimus 18-ráiggi sturrosaš {šilljus}${šiljus}, buokčaleapmi dovddus {soahtebázáhusain}${soahtebázahusain} dahje gizzun Norgga {našunalváris}${nationálaváris}, loahpaha Lars Skjønnås."
-  - "Davviriikkain, Suomas ja Ruošša lagašguovlluin urána skáhppon, loaggun, ruvkedoaibma ja {váimmosfápmolihkohisvuohta}${váimmusfápmolihkohisvuohta} sáhtáše duššadit sápmelaš árbevirolaš ealáhusaiguin bargama eavttuid."
+  - "Davviriikkain, Suomas ja Ruošša lagašguovlluin urána skáhppon, loaggun, ruvkedoaibma ja {váimmosfápmolihkohisvuohta}${váimmusfápmolihkohisvuohta} {sáhtáše}£{sáhtášii} duššadit sápmelaš árbevirolaš ealáhusaiguin bargama eavttuid."
   - "Heastagilvu ii leat jođáneamos riggun, muhto dat sihkkaramos geafun, čaimmiha Bueng.."
   - "Eará árbevirolaš doaimmat mat galget čađahuvvot dán prošeavtta oktavuođas, leat earet eará luondduresurssaid háhkan, murren ja muoraid čohkken, sistti dikšun, murjen, nuohttun // fierbmun, láibun sámegáhkuid darfegoađis, sávzzaullu beaskideapmi ja ivdnen, rievssatbivdin ja gárdun."
   - "Ievttá Ávviris čuoččuhii Suoma Sámedikki Ealáhus- ja vuoigatvuođalávdegotti ságadoalli Veikko Porsanger ahte Kárášjogas ja Iešjogas lea lobihis golgadeapmi ja nuohttun mii lea dagahan luossaváilevašvuođa badjedeanus."
@@ -901,7 +898,7 @@ gáibiduvvo dárkun, dokumenteren, reflekšuvdna, vuogádatlaš árvvoštallan j
   - "Diggi gáibida, ahte tibehtalaččaid buot politihkalaš, {sosialalaš}${sosiálalaš} ja kultuvrralaš duolbman ja olmmošvuoigatvuođaid rihkkun loahpahuvvo dakkaviđe."
   - "(vejolaš konsešuvdna čázádatmuddenlága § 6 mielde lea Sámedikki mielas duođalaš rihkkun sámi servodaga ektui."
   - "Dát lea stuora váttisvuohtan ja sin persovnnalaš árbevirolaš vuoigatvuođaid rihkkun."
-  - "FeFo stivrra jagi 2007 mearrádus sáhttá leat {Finnmárkkulága}${Finnmárkolága} ulbmila rihkkun, go das earret eará daddjojuvvo ahte resurssat galget hálddašuvvot fylkka álbmogii buorrin."
+  - "{FeFo stivrra}¥{FeFo-stivrra} jagi 2007 mearrádus sáhttá leat {Finnmárkkulága}${Finnmárkolága} ulbmila rihkkun, go das earret eará daddjojuvvo ahte resurssat galget hálddašuvvot fylkka álbmogii buorrin."
   - "Statsskog eatnamiid stivren- ja hálddašanorgánan, maiddái veaháš reviderejuvvon hámis, lea álbmotrievtti rihkkun."
   - "Mii guoská gáibádussii geiget siva, lea departemeanta cealkán ahte siva meroštallan guorahallojuvvon, ja ahte dábálaččat ii galgga divat biddjot jus rihkkun ii sáhte biddjot sivalažžii noađđin."
   - "Jos rihkku doarjjaeavttuid de sáhttá dat dagahit dan ahte máksimat bissehuvvojit buot eará doarjagiin maid Sámedikkis, go eavttuid rihkkun lea nohkan."
@@ -911,16 +908,15 @@ gáibiduvvo dárkun, dokumenteren, reflekšuvdna, vuogádatlaš árvvoštallan j
   - "Dát lea hui unohas ja gielddaid báikkálaš demokratiija ja iešstivrejumi rihkkun."
   - "Dan lea čielga rihkkun konsultašuvdnašiehtadusas gaskal Sámedikki ja Norgga ráđđehusa, dadjá Sámedikki presideantta Aili Keskitalo."
   - "Sámediggeráđđi atná vuođđun ahte jus bures vuhtto ahte muhtin boazodoallobearaš // boazodoalli ferte heaittihit iežas doaimma stuora boraspirevahágiid geažil, de ferte dát dulkojuvvot dego olmmošvuoigatvuođaid rihkkun ja álbmotrievttalaš prinsihpaid rihkkun."
-  - "– Mun oaivvildan ahte buohcciviessu lea lága rihkkun, ja ášši lea dan meare duođalaš ahte das fertejit maid oalle duođalaš váikkuhusat buohccivissui, Rørbakk čilge."
+  - "– Mun oaivvildan ahte buohcciviessu lea lága {rihkkun}£{rihkkon}, ja ášši lea dan meare duođalaš ahte das fertejit maid oalle duođalaš váikkuhusat buohccivissui, Rørbakk čilge."
   - "Jávohisgeatnegasvuođa rihkkun lea erenoamáš vearrái, go doaibmi boazodoalloagronoma Ingolf Balto lea ráhkadan evttohusa rádjái gaskal 16- ja 17-orohagaid, dadjá Geir Haugen."
   - '– Jus lea sáhka suolavuođa birra, gos orohat lea {"}‰{”}suoládan{"}‰{”} guohtuma nuppi orohagas, de ferte dat rihkkun duođaštuvvot duomu bokte, ja dan dihte lea buorre go boazodoalloláhka geahččaluvvo lágas, lohka Øvergård.'
   - "Jávohisgeatnegasvuođa rihkkun lea erenoamáš vearrái, go doaibmi boazodoalloagronoma Ingolf Balto lea ráhkadan evttohusa rádjái gaskal 16- ja 17-orohagaid, dadjá Geir Haugen."
   - "Suodjalusa rihkkun buvttii liigegoluid."
   - "Buhcciid vuoigatvuođaid rihkkun."
-  - "– Mun oaivvildan ahte buohcciviessu lea lága rihkkun, ja ášši lea dan meare duođalaš ahte das fertejit maid oalle duođalaš váikkuhusat buohccivissui, Rørbakk čilge."
   - "Jus hui roavva rihkkun lea, de gal lea birrasiid 3000 ruvdnosaš sáhkku, dieđihit geaidnopolitiijat."
   - "Vanebo mieđihii ahte okta rihkkun lei dat go NRK Sámi doaimmaheaddji ovtta gažaldaga jearralii loahpas sámegillii, man Agnete Johnsen vástidii sámegillii."
-  - "Jos ovtta olbmo rihkkun dagahii ahte jápmin ráđđegođii dan ovtta olbmo dihtii, de sii guđet ožžot vanhurskkisvuođa valljugas árpmu ja attáldaga, besset dađe {vissáseabbot}${vissáseappot} ráđđet ja eallit dan ovtta olbmo, Jesus Kristusa, dihtii."
+  - "Jos ovtta olbmo rihkkun dagahii ahte jápmin ráđđegođii dan ovtta olbmo dihtii, de sii guđet ožžot {vanhurskkisvuođa}${vánhurskkisvuođa} valljugas árpmu ja attáldaga, besset dađe {vissáseabbot}${vissáseappot} ráđđet ja eallit dan ovtta olbmo, Jesus Kristusa, dihtii."
   - "Nugo nappo ovtta olbmo rihkkun šattai dubmehussan buot olbmuide, lea ovtta olbmo {vanhurskkis}${vánhurskkis} dahku šaddan friddjavuođa duopmun ja eallimin buohkaide."
   - "Láhka bođii máilbmái vai rihkkun šattašii dađe stuoribun."
   - "Dat addojuvvui čájehit mii rihkkun lea, dassá go boađášii dat nálli mii lei ožžon lohpádusa."
@@ -956,7 +952,7 @@ gáibiduvvo dárkun, dokumenteren, reflekšuvdna, vuogádatlaš árvvoštallan j
   - "Gávdnojit maid nu gohčoduvvon gudnegoddimat, go bearrašat goddet fuolkenissona gean oaivvildit leat bearraša gudni rihkkun."
   - "– Juohke ovttaskas ášši fertet geahččat leago láhka rihkkun geavvan."
   - "Bargiidbellodat áigu dál váldit oktavuođa Kulturdepartemeanttain ja čielggadit leago dát konsešuvdnaeavttuid rihkkun."
-  - "Seamma ollu máksá máid bisanangeatnegasvuođa rihkkun."
+  - "Seamma ollu máksá máid {bisanangeatnegasvuođa}${bisánangeatnegasvuođa} rihkkun."
   - "Geaidnogalbbaid rihkkun divru 3200,- ruvdnui, mii lea 200 ruvnno eambbo."
   - "Bargiidbellodat áigu dál váldit oktavuođa Kulturdepartemeanttain ja čielggadit leago dát konsešuvdnaeavttuid rihkkun."
   - "– Vaikko čájehuvvošiige ahte dát ii leat konsešuvdnaeavttuid rihkkun, de ii leat dát liikká buorre."
@@ -981,18 +977,18 @@ gáibiduvvo dárkun, dokumenteren, reflekšuvdna, vuogádatlaš árvvoštallan j
   - "– Mu mielas gal orru dá sámi mánáid vuoigatvuođaid rihkkun, lohká Haanes."
   - "– Mii čuoččuhit ahte dán áššis lea roavva ekonomalaš njihttin, roavva suoládeapmi ja duođalaš rihkkun {elliidsuodjalus lágas}¥{elliidsuodjaluslágas}, dadjá áššáskuhtti Inge Svae-Grotli."
   - "– Min ulbmil dalle lei fuomášuhttut ahte dán guovllu riidu ja olmmošvuoigatvuođaid rihkkun orru oalát vajálduvvamin."
-  - "Dán 8 {million}${miljovdna} sturrosaš giellaprošeavttas livčče 15 proseantta dagahit 1,2 {million}${miljovdna} kruvnna, maid de Sámediggi sáhttá šaddat máksit jus lávdegotti mielas leš rihkkun lága."
+  - "Dán 8 {million}${miljovdna} sturrosaš giellaprošeavttas livčče 15 proseantta dagahit 1,2 {million}${miljovdna} kruvnna, maid de Sámediggi sáhttá šaddat máksit jus lávdegotti mielas leš {rihkkun}£{rihkkon} lága."
   - "Sámediggevárrepresideanta Marianne Balto logai ovdal basiid ahte sin árvvoštallama vuođul de ii leat Sámediggi rihkkun makkár lága, muhto jus váidagat bođežit, de han fertejit oaidnit mo geavaš."
   - "Go diet lea nu garra duolbmun ja álbmotrievtti rihkkun."
   - "Áigemeriid rihkkun."
   - "Ákŋoluovtta {elliidsuoddjalanlávdegoddi}${elliidsuodjalanlávdegoddi} lea gozihan ášši go boazodoallit bukte váibbahiid Sállanii ja oaivvildedje boazodoalliid rihkkun {eliidsuoddjalanlága}${elliidsuodjalanlága}."
   - "Dáid lágaid ja njuolggadusaid rihkkun váidojuvvo."
   - "Ovdamearkkas dáhpáhuvvan argumeantaráhkadusa rihkkun ivdne dilálašvuođa go boltut jovssusin jurddašuvvo dábálaččat heakkahis diŋga."
-  - "Mu vuolggasadjin, barggadettiin dán oahppočájánasa, lea dat ahte álgoálbmogat ledje iešmearrideaddji servodagat ovdal kolonialisttalaš áigodaga ja dálá {riekteregiimmain}¢{riektereiimmain} álgoálbmogiid iešmearrideami gieldin lea álgoálbmogiid olmmošvuoigatvuođaid rihkkun."
+  - "Mu vuolggasadjin, barggadettiin dán oahppočájánasa, lea dat ahte álgoálbmogat ledje iešmearrideaddji servodagat ovdal kolonialisttalaš áigodaga ja dálá {riekteregiimmain}¢{riekterešiimmain} álgoálbmogiid iešmearrideami gieldin lea álgoálbmogiid olmmošvuoigatvuođaid rihkkun."
   - "Čuoldinvuoigatvuohta gávdno dalle jos muhtin joavkku vuostá lea {vuoigatmeahttumis}¢{vuoigatmeahttun} vealaheapmi, roavva olmmošvuoigatvuođaid rihkkun mii lahkona álbmotgoddima dahje jos eai leat muđuid vejolašvuođat gádjut joavkku dahje álbmoga."
   - "Stereotiippaid rihkkun lea okta álgoálbmotkritihkka ulbmil."
   - "Vearrokantuvra sáhttá leat {juridihkkálaččat}${juridihkalaččat} rihkkun dásseárvolágaid."
-  - "Vuossárgga váiden rektora rihkkun bargoovddasvástádusa, lohká Káre."
+  - "Vuossárgga váiden rektora {rihkkun}£{rihkkon} bargoovddasvástádusa, lohká Káre."
   - "Kap. 7 Konvenšuvnna rihkkun."
   - "Lágaid ja láhkaásahusaid rihkkun."
   - "Lea deaŧalaš deattuhit ahte vaikko eiseválddiid ii sáhte seaguhit áššái, de lea geahčadeami vuoiggalaš ávžžuhusa biehttaleapmi buori boazodoallodábi njuolggadusaid duođalaš rihkkun."
@@ -1012,7 +1008,7 @@ gáibiduvvo dárkun, dokumenteren, reflekšuvdna, vuogádatlaš árvvoštallan j
   - "Olbmot {vihkohallojuvvojit}${viguhallojuvvojit} go sii háliidit ávkkástallat luondduriggodagaiguin nu mo sii árbevirolaččat leat dahkan, ja dát lea sin mielas olbmuid riekteoainnu rihkkun."
   - "Viidáseappot jearrá NSR áigu go sámediggeráđđi árvvoštallat sáddet fuolastuvvandieđáhusa ON:i go Vátnjavári {skovlá}${skuvla} heaittiheapmi adnojuvvo leat olmmošvuoigatvuođaid rihkkun Norgga ráđđehusa bealis."
   - "Mearrádus lea min mielas njulgestaga dáid vuoigatvuođaid rihkkun, mat mearrasápmelaččain ja earáin geat ásset riddo- ja vuotnaguovlluin, leat leamaš don doloža rájes riddoguolásteapmái min lagašguovlluin."
-  - "Dán paragráfa sihkkun lea rievttálaš rihkkun, dál go {Finnmárkkukommišuvdna}${Finnmárkokommišuvdna} áigu čielggadišgoahtit vuoigatvuođa boares bivdinsajiide, geahča Finnmárkulága § 29."
+  - "Dán paragráfa sihkkun lea rievttálaš rihkkun, dál go {Finnmárkkukommišuvdna}${Finnmárkokommišuvdna} áigu čielggadišgoahtit vuoigatvuođa boares bivdinsajiide, geahča {Finnmárkulága}${Finnmárkolága} § 29."
   - "Veahkaváldi nissoniid ja nieiddaid vuostá lea {vuođđo olmmošvuoigatvuođaid}¥{vuođđoolmmošvuoigatvuođaid} rihkkun."
   - "Dát lea konsultašuvdnašiehtadusa čielga rihkkun, dadjá Muotka."
   - "Ráđđelahttu Henrik Olsen deattuha dasto ahte juohkelágan seksuála ja veahkaválddálaš rihkkun sámi nissonolbmuid ja nieiddaid ektui lea dohkketmeahttun."
@@ -1064,7 +1060,7 @@ gáibiduvvo dárkun, dokumenteren, reflekšuvdna, vuogádatlaš árvvoštallan j
   - "lávdegotti loahppajurdda lei ahte dat ii leat rihkkun, ee. dainnago eiseválddit ledje."  #rihkkun
   - "Seammá jagi miessemánu stivračoahkkimis čujuhuvvuiga ovdaolmmoš ja {nubbinovdaolmmoš}${nubbiovdaolmmoš} áirrasin fylkkamánni gohččun čoahkkimii boazodoalu birra."  #gohččun
   - "mátki mas bargu jeavddalaččat gáibida ahte fertet biilla mielde váldit bargobiergasiid mátki dan sajis gos orut ja bissovaš bargosadjái, go mátkki ággan lea dárbbašlaš gohččun bargoáiggi." #gohččun
-  - "Sámi allaskuvla lea sámedikki gohččun mielde ásahan oahpaheaddjifierpmádaga sámi oahpahusa várás."  #gohččun
+  - "Sámi allaskuvla lea sámedikki gohččun mielde ásahan {oahpaheaddjifierpmádaga}${oahpaheaddjefierpmádaga} sámi oahpahusa várás."  #gohččun
   - "Čoahkkinjođihangotti gohččun beaiváduvvon 10.11.05 ja áššelistu dohkkehuvvui ovttajienalaččat."  #gohččun
   - "Čoahkkinjođihangotti gohččun beaiváduvvon 27.04.07 dohkkehuvvui ovttajienalaččat."  #gohččun
   - "Čoahkkinjođihangotti gohččun beaiváduvvon 31.08.07 oktan {áššelistuin}${áššelisttuin} dohkkehuvvui ovttajienalaččat."  #gohččun
@@ -1080,7 +1076,7 @@ gáibiduvvo dárkun, dokumenteren, reflekšuvdna, vuogádatlaš árvvoštallan j
   - "Ii lobálaš gohččun." #gohččun
   - "Go suomagielat rávvagiin adnojuvvo dušše okta tearbma {’}‰{”}njuolggo sitáhta{’}‰{”} de sámegielat gáldut máinnašit njeallje tearpma: {njuolggo ovdanbuktin}¥{njuolggoovdanbuktin} (22), {njuolggo gohččun}¥{njuolggogohččun} (23), {njuolggo čuorvun}¥{njuolggočuorvun} (24) ja {njuolggo gažaldat}¥{njuolggogažaldat} (25) (Čállinrávagirji 2003: 10, 16; gč. maid Pope & Sara 1996: 268–171)."  #gohččun
   - "ožžot seammasullasaš mearkkašumi, muhto maŋit gohččun lea loahpalut."  #gohččun
-  - "Fitnodat lea doallan Lapin ELYguovddáža ruhtadan doalvunskuvlemiid Norgii, sihke doaibmá Norggas uvssaid leahkkun sihke láhkaásahuslaš áššiid čielggadeaddjin."  #leahkkun
+  - "Fitnodat lea doallan Lapin ELY-guovddáža ruhtadan doalvunskuvlemiid Norgii, sihke doaibmá Norggas uvssaid leahkkun sihke láhkaásahuslaš áššiid čielggadeaddjin."  #leahkkun
   - "Árvvolaš leahkkun." #leahkkun
   - "Oarjeuksa – juoigama giddanan uvssaid leahkkun." #leahkkun
   - "Son čilgii ahte RAIPON doaimma lihccun ii lean politihkalaš ja das ii lean makkárge oktavuohta RAIPON doibmii, namalassii ahte gozihit álgoálbmogiid vuoigatvuođaid."  #lihccun
@@ -1140,7 +1136,7 @@ gáibiduvvo dárkun, dokumenteren, reflekšuvdna, vuogádatlaš árvvoštallan j
   - "Eaba livčče vuolgán, muhto vuhtiiga ahte ii lean bovdehus, muhto baicca gohččun."  #gohččun
   - "Mun háliidan maid muittuhit ahte Sámi allaskuvla lea ožžon gohččuma (mandáhta) davviriikkaid ja sámi {eiseválddin}${eiseválddiin} sámi {oahpaheaddjioahpu}${oahpaheaddjeoahpu} ektui, muhto mis váilu seamma gohččun {ovdaskuvla {oahpaheaddjioahpu}${oahpaheaddjeoahpu}}¥{ovdaskuvlaoahpaheaddjeoahpu} ja eará oahpuid ektui."  #gohččun
   - "Dát lihccun leat boktán olu digaštallama miehtá Suoma."  #lihccun
-  - "Asbjørn Wikestad lohká E24 aviisii ahte lea 100 proseantta sihkar ahte lihccun boahtá guoskat Norgga bargiide maid."  #lihccun
+  - "Asbjørn Wikestad lohká {E24 aviisii}¥{E24-aviisii} ahte lea 100 proseantta sihkar ahte lihccun boahtá guoskat Norgga bargiide maid."  #lihccun
   - "Jus dus ii leat lihccun // loahppateastta, dahje dus lea vuoliduvvon bargoáigi dahje bargoáigi mii dávjá rievddada, de fertet bidjat mielde skovi (Heaitinsiva duođašteapmi), maid gávnnat interneahttasiidduin www.nav.no dahje oažžut dan iežat báikkálaš kantuvrras, maid bargoaddi lea deavdán ja vuolláičállán."  #lihccun
   - "Ovdal go lihccun mearrida, galget eará veahkke- dahje ráŋggáštandoaimmat geahččaluvvot."  #lihccun
   - "Marianne Balto dáhkida čielgasit ahte dát 1 miljovnna sihkkun ii boađe čuohcat meahcásteapmái go árvoháhkanprográmmas lea doarvái ruhta daidda ulbmiliidda."  #sihkkun
@@ -1156,11 +1152,11 @@ gáibiduvvo dárkun, dokumenteren, reflekšuvdna, vuogádatlaš árvvoštallan j
   - "Deanu guollebivdoárbái gullet dán áigge gildojuvvon rastábuođđu, duhastus ja goldin sihke velá ain geavahusas joddo- ja meardebuođđu, fierbmebivdu orru firpmiin, nuohttun, golgadeapmi dahje {áhpegolgadan bivdu}¥{áhpegolgadanbivdu}, ja stággo- ja vuoggabivdu."  #nuohttun
   - "Ievttá Ávviris čuoččuhii Suoma Sámedikki Ealáhus- ja vuoigatvuođalávdegotti ságadoalli Veikko Porsanger ahte Kárášjogas ja Iešjogas lea lobihis golgadeapmi ja nuohttun mii lea dagahan luossaváilevašvuođa badjedeanus."  #nuohttun
   - "– Lea dušše lunddolaš ahte vuolledeanus lea vuosteháhku lobálaš nuohttuma vuostá, muhto maŋemuš jagiid ii leamaš nuohttun obanassiige dáppe."  #nuohttun
-  - "Galgá go nuohttun leat nuvttá, lea okta gažaldagain maid Finnmárkkuopmodat (FeFo) jearrá  #nuohttun
-    #$: Ruoššajávrri náláštuhttin, nuohttun Geaimmejávrris."  #nuohttun
+  - "Galgá go nuohttun leat nuvttá, lea okta gažaldagain maid Finnmárkkuopmodat (FeFo) jearrá"  #nuohttun
+  - "Ruoššajávrri náláštuhttin, nuohttun Geaimmejávrris."  #nuohttun
   - "Eanaš nuorat eai lean goassege leamaš mielde nuohttume, vaikko vel nuohttun lea dološ árbevierru Guovdageainnus."  #nuohttun
   - "- Mis galgá maiddái leat nuohttun."  #nuohttun
-  - "{Sabbasaen}${Sabbasen} dadjá ahte nuohttun mearas ferte viiddiduvvot vai nagodivčče jávkadit ruoššaluosa man eai dáhtošii leavvat."  #nuohttun
+  - "{Sabbasaen}${Sabbasen} dadjá ahte nuohttun mearas ferte viiddiduvvot vai nagodivčče jávkadit ruoššaluosa man eai {dáhtošii}£{dáhtoše} leavvat."  #nuohttun
   - "Nekrobacillos sáhttá njoammut bohccuide ja iežá gazzaspiriide šlubbun ja njálbmevihkin, muhto dat sáhttá maiddái njoammut {siskkiluččaide}${siskilušaide} dego čalbmasii dehe vuoivasii."  #šlubbun
   - "- Čuokkisliggen // guovddášliggen Boaldinávdnasiid viežžan, fievrrideapmi, čuollan // luoddun, goikadeapmi, boaldin muorrauvnnas."  #luoddun
   - "29.01.09 beaiváduvvon gohččun oktan evttohuvvon áššelisttuin dohkkehuvvui."  #gohččun
@@ -1232,7 +1228,7 @@ gáibiduvvo dárkun, dokumenteren, reflekšuvdna, vuogádatlaš árvvoštallan j
   - "– Ruoššas lea nu ahte skuvlaáiggis hárjehallet ja nu gártet buorren heaibun."  #heaibun
   - "Vaikke heaibun ii leatge nu stuorra valáštallansurggiid, de dattetge leat ollu našuvnnat mielde, dadjá Gundersen."  #heaibun            
   - "Dat lea várra danne go Ruoššas lea heaibun {našunála}${nationála} valáštallan."  #heaibun
-  - "{Deanunieida}${Deanonieida} Signe Marie Fidje Store {oasálasttii}${oassálasttii} vuohččan heaibun {eurohpameašttirgilvvuin}${eurohpámeašttirgilvvuin}, ja {oláhii}${olahii} njealját {sáji}${saji}."  #heaibun
+  - "{Deanunieida}${Deanu nieida} Signe Marie Fidje Store {oasálasttii}${oassálasttii} vuohččan heaibun {eurohpameašttirgilvvuin}${eurohpámeašttirgilvvuin}, ja {oláhii}${olahii} njealját {sáji}${saji}."  #heaibun
   - "Fidje Store bávččagahtii oalggi, mii dagahii ahte su heaibun ii šaddan nu movt buohkat ledje vuordán." #heaibun
   - "Dán oahppandoaimmas lea gáhkken // láibun fáddán."  #láibun
   - "Eadni háliida hui olu giitit iežas stuorra oappá Anbjørg ja muoŧŧala Áile Marita geat leigga nu šiega ja viššal go leigga bassan, čorgen ja láibun njalgga 3-sortta gáhkuid midjiide go joavddaimet ruoktot." #láibun
@@ -1303,7 +1299,7 @@ gáibiduvvo dárkun, dokumenteren, reflekšuvdna, vuogádatlaš árvvoštallan j
   - "Mun dađistaga áiccan man stuora ilu lávlun buktá olbmuide go šaddet risttalažžan."  #lávlun
   - "Duohta vuoiŋŋalaš lávlun lea Ipmilii lávlla, Ipmila muođuid ovddas sutnje gudnin."  #lávlun
   - "Nu šaddá ge maid lávlun, ja mánáidkoarra searvá ge dása."  #lávlun
-  - "Guovdageaidnulaš Emma Elliane Oskal Valkeapää (11) lávlu odne eahkes NRK:s diibmu 19.55 rájes Norgga Melodi Grand Prix jr lávlun gilvvus  #lávlun."
+  - "Guovdageaidnulaš Emma Elliane Oskal Valkeapää (11) lávlu odne eahkes NRK:s diibmu 19.55 rájes Norgga Melodi Grand Prix jr lávlun gilvvus"  #lávlun.
   - "Kulturdoaimmat, nugo lávlun, juoigan ja neaktin, dáidet movttiidahttit sámi mánáid ja nuoraid álgit giella- ja kulturohppui."  #lávlun
   - "Joavkkus lea molsahuvvan áirasat, sihke čuojaheaddjit ja vokalisttat, dan rájes go álge 1987:s, ovdamearkka dihte álggii Anne Gro Gaup diibmá joavkku lávlun."  #lávlun essiv
   - "Rumbbut, gitára ja lávlun Musihkaoahppit." #lávlun
