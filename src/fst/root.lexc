@@ -727,7 +727,7 @@ Multichar_Symbols
 ! 1              2            3            4             POS type
 +Der1          +Der2        +Der3        +Der4
 ! Der#1
-+Der/Dimin                                               ! NN (was: Der/aš & Der/š)
++Der/Dimin                                               ! NN (was: Der/aš & Der/š)
 +Der/lasj                                                ! NA
 +Der/meahttun                                            ! VA
 +Der/d                                                   ! VV
@@ -743,8 +743,6 @@ Multichar_Symbols
 +Der/huvva                                               ! VV * +Der1+Der2 - can only combine with Der3
 +Der/stuvva                                              ! VV * +Der1+Der2 - can only combine with Der3
 +Der/PassS                                               ! VV - short passive
-+Der/Comp       										 ! AA
-+Der/Superl       										 ! AA
 
 ! Der#2
               +Der/t                                     ! NA
@@ -758,6 +756,11 @@ Multichar_Symbols
               +Der/AAdv                                  ! QA ! check this!
               +Der/easti                                 ! VV
               +Der/laagasj                               ! QA
+              +Der/Comp       							 ! AA
+              +Der/Superl       					     ! AA
+              +Der/Dimin                                 ! NN (was: Der/aš & Der/š)
+
+
 
 ! Der#3
                            +Der/PassL                    ! VV - long passive
