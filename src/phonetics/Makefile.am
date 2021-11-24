@@ -15,8 +15,6 @@
 ## You should have received a copy of the GNU General Public License
 ## along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-SUBDIRS=. test
-
 SUBDIRS = . tests
 
 ####### Source file defs: ########
@@ -24,10 +22,12 @@ SUBDIRS = . tests
 #! @param GT_PHONETICS_MAIN required, the source of phonetic transcription
 #! @param GT_PHONETICS_SUPPLEMENTS optional, other sources to distribute and
 #! 		  compile for other things
-GT_PHONETICS_MAIN=text2ipa-$(GTLANG).xfscript
-GT_PHONETICS_SUPPLEMENTS=text2tts-$(GTLANG).xfscript \
-						 text2tts-fin.xfscript \
+GT_PHONETICS_MAIN=txt2ipa.xfscript
+GT_PHONETICS_SUPPLEMENTS=text2tts-fin.xfscript \
 						 text2tts-nob.xfscript
+
+# text2tts-$(GTLANG).xfscript - not in use, was made for Acapela, and in the end
+# not used by them at all.
 
 ##########################################
 # General build rules included from here:#
