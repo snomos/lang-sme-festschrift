@@ -365,6 +365,8 @@ LIST Pr = Pr ;
 LIST Pcle = Pcle ;
 LIST Num = Num ;
 LIST Coll = Coll ;
+LIST Arab = Arab  ;
+LIST Rom = Rom ;
 LIST Known = Known ;
 LIST G3 = G3 ;
 LIST Prop = Prop ;
@@ -3740,6 +3742,11 @@ SELECT ("dihte" Po) (0 ("dihtti" N Sem/Ani Sg Gen Allegro) OR ("diehtit" V Ind P
 SELECT:idiosyn-got ("got" Adv) - Subqst (-1 (V Neg));
 	## Eai {got} dalle dát seamma eiseválddit sáhte čájehit ovttasvástádusa gieldda ektui, jearrá Skanke.
 	
+	# "ii" V IV Neg vs. "II" Num Rom Sg Nom
+	# - - - - - - - - - - - - - - - - - - -
+
+SELECT:ii-not-II ("ii" Neg Ind Sg3) (0 ("II" Num Rom Sg Nom))(NEGATE 0 ("<II>"))(NEGATE -1 ("s") OR ("siidu") OR ("§") OR ("paragráfa") OR ("kapihttal") OR ("kapihtal") OR HEADOFPARTS);
+	## 	12 juogadit ovtta gievkkana, muhto ii dáin gievkkaniin orro beare ollu biebmu.
 
 	# Rules for "dušše", viimmat 
 
@@ -15481,8 +15488,9 @@ SELECT:r1770 (A Sg Nom) - Err/Lex IF (*-1 COPULAS BARRIER NOT-ADV-PCLE LINK *-1 
 SELECT:r1771 (A Sg Nom) - Err/Lex IF (*-1 COPULAS BARRIER NOT-ADV-PCLE LINK *-1 (Sg Nom) BARRIER NOT-ADV-PCLE LINK *-1 BOC2 OR CP BARRIER NOT-ADV-PCLE)(*1 COPULAS BARRIER NOT-ADV-PCLE LINK *1 CLB OR EOS BARRIER NOT-ADV-PCLE);
 	## ...dan dihte go geassegollebivdu lei áibbas heittot leamaš,...
 
-SELECT:r1772 (A Sg Nom) - Err/Orth - Err/Lex IF (*-1 COPULAS BARRIER NOT-ADV-PCLE LINK *-1 (N Sg Nom) OR (Pron Sg Nom) OR (Sg1 Nom) OR (Sg2 Nom) OR (Sg3 Nom) BARRIER S-BOUNDARY2 LINK NOT 0 Ess)(NEGATE 0 N OR Inf OR Adv)(NEGATE 1 VERB)(NEGATE 1 CC LINK 1 Adv)(NEGATE *1 N BARRIER NPNH);	
+SELECT:r1772 (A Sg Nom) - Err/Orth - Err/Lex IF (*-1 COPULAS + Sg3 OR COPULAS + Inf OR COPULAS + PrfPrc BARRIER NOT-ADV-PCLE LINK *-1 (N Sg Nom) OR (Pron Sg Nom) OR (Sg1 Nom) OR (Sg2 Nom) OR (Sg3 Nom) BARRIER S-BOUNDARY2 LINK NOT 0 Ess)(NEGATE 0 N OR Inf OR Adv)(NEGATE 1 VERB)(NEGATE 1 CC LINK 1 Adv)(NEGATE *1 N BARRIER NPNH);	
 	## Mun in leat dohkálaš ahte don boađášit mu vissui.
+	#$GRAM Baráhkat, main dušše ovtta ledje geargan sihkastit fiskes málain, orro leamen {buhttásat}.
 
 SELECT:r1773 (A Sg Nom) - Err/Orth - Err/Lex - Der/Comp IF (*-1 COPULAS BARRIER Nom OR PrfPrc OR CS OR MO LINK 0 Sg1 OR Sg3)(NEGATE 0 Adv OR N OR Inf)(NEGATE 1 VERB OR Num OR A)(NEGATE 1 ("nu") OR ("hui") LINK 1 A)(NEGATE 1 CC LINK 1 Adv)(NEGATE *1 N BARRIER NPNH); 
 	## Lea ártet go it gallet fulkkiin.
@@ -18572,9 +18580,9 @@ SELECT:r2341 Nom - Err/Any IF (*-1 CS OR BOS OR CC OR CP BARRIER NP-HEAD OR VFIN
  # Num Sg Loc.
  	#$ Buot njeallje máná ledje náđđon eagi vuostá. #Comment: In order for the numeral to be the head in this sentence, I had to add - ("buot") to the BARRIER NP-HEAD which includes pronouns.
 
-SELECT:r2342 Nom - Err/Any IF (*-1 CS OR BOS OR CC OR CP BARRIER NP-HEAD OR VFIN)(0 NUM)(*1 COPULAS BARRIER SV-BOUNDARY2 LINK 0 (Pl3) LINK NEGATE *1 PrfPrc OR Inf BARRIER SV-BOUNDARY2)(NEGATE 0 Gen LINK 1C Po);
+SELECT:r2342 Nom - Err/Any IF (*-1 CS OR BOS OR CC OR CP BARRIER NP-HEAD OR VFIN)(0 NUM - Rom)(*1 COPULAS BARRIER SV-BOUNDARY2 LINK 0 (Pl3) LINK NEGATE *1 PrfPrc OR Inf BARRIER SV-BOUNDARY2)(NEGATE 0 Gen LINK 1C Po);
 	## Vihtta bivdovuogi leat Deanus luosa bivdidettiin. 
-    #GRAM
+    #GRAM 12 juogadit ovtta gievkkana, muhto {ii} dáin gievkkaniin orro beaDaidda nuoraide geat dál ožžo 9-jagi oahpahusa, orro dego nuorit rahpaseamen, ja ahte sire ollu biebmu.
     
 SELECT:r2343 (Sg Nom) - Err/Any IF (*-1 CS OR BOS BARRIER NOT-ADV-PCLE)(NEGATE 0 Adv OR PrfPrc OR Px)(NEGATE 0 Qst)(*1 V-SG3 OR V-DU3 BARRIER NOT-NP OR Nom OR Ess OR SV-BOUNDARY2 LINK NEGATE *1 NP-HEAD-SG-NOM BARRIER NPNHA)(NEGATE 0 Gen LINK *1 N BARRIER NPNH)(NEGATE 0 Ess)(NEGATE 0 Gen LINK 1C Po)(NEGATE 0 (A Attr) LINK 1 N);
 	## Mii vuordit ahte stáhta sámi vuoigatvuođaid barggu oktavuođas čuovvu...
@@ -18721,10 +18729,10 @@ SELECT:r2378 (Sg Nom) - Px - Err/Any IF (*-1 COPULAS BARRIER SV-BOUNDARY2 OR PUN
 SELECT Nom - Err/Any (*-1 ("leat") BARRIER NPNH LINK *-1 Sem/Hum OR Pers)(0 Sem/Hum LINK 1 PLACE OR Sem/Plc)(NEGATE 0 Inf);
 	#$GRAM Oahppit lohket iežaset olu oahppan dan birra mo ovdalaš áiggi lei {vázzit} skuvla, ja orro ovttaoaivilis dasa ahte sis gal lea buoret skuvladilli go ovddeš ohppiin lei.
 
-SELECT:r2379 (Sg Nom) - Px - Err/Any IF (*-1 COPULAS + V-SG3 BARRIER CC OR NPNHA OR (Sg Nom))(*-1 V-SG3 BARRIER V-NOT-AUX)(NEGATE 0 Loc OR Ess OR Adv OR Err/Confused)(NEGATE 0 NOUN-PO)(*1C NP-BOUNDARY BARRIER WORD)(NEGATE 0 Gen LINK 1 Po);
+SELECT:r2379 (Sg Nom) - Px - Err/Any IF (*-1 COPULAS + V-SG3 BARRIER CC OR NPNHA OR (Sg Nom))(*-1 V-SG3 BARRIER V-NOT-AUX)(NEGATE 0 Loc OR Ess OR Adv OR PrfPrc OR Err/Confused)(NEGATE 0 NOUN-PO)(*1C NP-BOUNDARY BARRIER WORD)(NEGATE 0 Gen LINK 1 Po);
 	## Go šattai eahket, de...
 	#$ ášši birra
-	#GRAM
+	#$GRAM Orui gullan juohke sáni, ja dat {orro} su dovdduid joksan.
 
 SELECT:r2380 (Pl Nom) - Err/Any IF (*-1 COPULAS BARRIER SV-BOUNDARY2 OR PUNCT OR NP-HEAD-NOM LINK 0 Pl3)(0 A OR NP-HEAD)(NEGATE 0 Inf OR Adv)(1C NP-BOUNDARY OR (N Pl Nom))(NEGATE 0t Err/Any);
 	#$GRAM Nugo dieđán, eai leat makkárge stuorát Jeaggegaskkat, erret soitet muhtun Sulluin, priváhta Eaiggáduššamis, vánit Navdit dárbbu addit makkárge Lága dan Olámuttus, ahte galggašii ráddjet priváhta Eaiggádiid Lavdnjejekkiid anu. 
