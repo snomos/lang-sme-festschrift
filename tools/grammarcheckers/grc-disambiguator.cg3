@@ -4125,8 +4125,8 @@ SELECT:r3183 ("orrot") IF (0 ("orrut"))(-1 Ill + Sem/Place - ILL-N-ADV - (Dem Il
     #$ Das berrejit bearráigeahččan eiseválddit vuoruhit eambbo návccaid bearráigeahččamii, go dasa orro duođaid dárbu dan raportta dieđuid mielde.
 	#$ Ágga dasa orro ahte muhtin ealáhussurggiide leat unnit ohccit go eará surggiin.
 	#$ Ealáhusaide orro leamašan váttis oažžut earáid ipmirdit ahte juste dat han lea mii dáhpahuvva sidjiide boranávdevahágiid oktavuođas, muhto dál go eanadoallo- ja biebmoministtar orro rievdadan oainnu, de leat ealáhusat sávvamis ollen guhkkelii sin ákkastallamin.
-SELECT:r3184 ("orrot") IF (0 ("orrut"))(*1 Ill - Attr  BARRIER NOT-ADV LINK NOT 0 Adv);
-	#$GRAM
+SELECT:r3184 ("orrot") IF (0 ("orrut"))(*1 Ill - Attr  BARRIER NOT-ADV LINK NOT 0 Adv)(NEGATE 0 ("orrut" Pl3) LINK *0 (Pron Pl3 Nom) OR (N Pl Nom));
+	#$GRAM Dábálaš olbmot dat gal orro oahpásiid luhtte.
     #$ Nu go dát orro oppalohkái čájehuvvomin, de leat raporterengáibádusat álkit, ja ii oro leamen dárbu daid moktege divdodit.
 REMOVE:r3185 ("orrut" Der/PassS) OR ("orrot") IF (0 ("orrut"))(1 ("go"));
 REMOVE:r3186 ("orrut" Der/PassS) OR ("orrot") IF (0 ("orrut"))(*1 (Actio Ess) OR ("leat" PrfPrc) BARRIER NOT-ADV-PCLE);
@@ -13634,17 +13634,17 @@ SELECT:r1191 (CC @CVP) IF (0 ("vai")) (*-1 Inf BARRIER VERB OR CLB)(*1 Inf BARRI
 
 REMOVE:r1186 CC IF (0 ("vai"))(NEGATE *-1 Qst OR Interr OR ("go" Pcle))(NEGATE 1 Qst OR Neg)(NEGATE 2 ("go" Pcle))(*1 VFIN LINK NOT 0 N)(NEGATE *1 ("?"));
 
-SELECT:r1187 (CC @CVP) IF (0 ("vai")) (1 Neg)(2 CLB);
+SELECT:r1187 (CC @CVP) - Err/Any IF (0 ("vai")) (1 Neg)(2 CLB);
 	## Leago sámeálbmogis vuoigatvuođat vai eai, dahje...
 	## ... vai leago ..
 
-SELECT:r1189 (CC @CVP) IF (0 ("vai"))(2 ("go" Pcle));
+SELECT:r1189 (CC @CVP) - Err/Any IF (0 ("vai"))(2 ("go" Pcle));
 	## Dáhpáhuvvá go dat ođđa lágaid bokte, vai geahččaluvvo go gávdnat čovdosiid bissovaš rievttis? 
 
-SELECT (CC @CNP) IF (0 ("vai"))(-1 N OR A)(*1 N OR A BARRIER NPNH)(NEGATE *2C VFIN BARRIER S-BOUNDARY)(*1 ("?")); 
+SELECT (CC @CNP) - Err/Any IF (0 ("vai"))(-1 N OR A)(*1 N OR A BARRIER NPNH)(NEGATE *2C VFIN BARRIER S-BOUNDARY)(*1 ("?")); 
 	## Leago nieida vai bárdni?
 
-SELECT:r1190 (CC @CNP) IF (0 ("vai"))(NEGATE 1 VFIN)(NEGATE *2C VFIN BARRIER S-BOUNDARY); 
+SELECT:r1190 (CC @CNP) - Err/Any IF (0 ("vai"))(NEGATE 1 VFIN)(NEGATE *2C VFIN BARRIER S-BOUNDARY); 
 	## ...čállogo journála elektrovnnalaččat vai báhpárii.
 # The C may be too strong, but without it we are not able to catch the N reading of "bárdni".
 # An alternative would have been to have a rule for leago A vai B?
@@ -15478,24 +15478,24 @@ SELECT:r3573 ("alit") IF (-1 go OR Qst)(0 ("allat" Nom))(1 EOS);
 	# Adjectives as predicates
 	# ========================
 
-SELECT:r1767 (A Pl Nom) - Err/Lex IF (*-1 COPULAS BARRIER NOT-ADV-PCLE LINK *-1 (N Pl Nom) OR (Pron Pl Nom) OR (Pl1 Nom) OR (Pl2 Nom) OR (Pl3 Nom) BARRIER S-BOUNDARY2 OR (Sg Nom))(NEGATE 0 N)(NEGATE 1 A)(NEGATE 1 Adv LINK 1 A)(NEGATE 1 Po);
+SELECT:r1767 (A Pl Nom) - Err/Any IF (*-1 COPULAS BARRIER NOT-ADV-PCLE LINK *-1 (N Pl Nom) OR (Pron Pl Nom) OR (Pl1 Nom) OR (Pl2 Nom) OR (Pl3 Nom) BARRIER S-BOUNDARY2 OR (Sg Nom))(NEGATE 0 N)(NEGATE 1 A)(NEGATE 1 Adv LINK 1 A)(NEGATE 1 Po);
 	## ...ja dan golut leat govttolaččat veahki ektui.
     #$ Boazoealáhus , masa ruvkedoaimmat garrasepmosit čuhcet , leat lunddolaččat vuostá dakkár ásaheami.
     
-SELECT:r1768 (A Pl Nom) - Err/Lex IF (*-1 COPULAS BARRIER NOT-ADV-PCLE LINK *-1 (Du1 Nom) OR (Du2 Nom) OR (Du3 Nom) BARRIER S-BOUNDARY2)(NEGATE 0 N)(NEGATE 1 VERB OR A);
+SELECT:r1768 (A Pl Nom) - Err/Any IF (*-1 COPULAS BARRIER NOT-ADV-PCLE LINK *-1 (Du1 Nom) OR (Du2 Nom) OR (Du3 Nom) BARRIER S-BOUNDARY2)(NEGATE 0 N)(NEGATE 1 VERB OR A);
 	## I have found no examples, but the rule should work! 
 
-SELECT:r1769 (A Pl Nom) - Err/Lex IF (*-1 COPULAS BARRIER NOT-ADV-PCLE LINK *-1 Nom BARRIER S-BOUNDARY2 LINK *-1 CC BARRIER NPNH LINK -1 Nom)(NEGATE 0 N)(NEGATE 1 VERB OR A);
+SELECT:r1769 (A Pl Nom) - Err/Any IF (*-1 COPULAS BARRIER NOT-ADV-PCLE LINK *-1 Nom BARRIER S-BOUNDARY2 LINK *-1 CC BARRIER NPNH LINK -1 Nom)(NEGATE 0 N)(NEGATE 1 VERB OR A);
 	## Sámegiella ja dárogiella leat ovttaárvvosaččat. 
 
-SELECT:r1770 (A Sg Nom) - Err/Lex IF (*-1 COPULAS BARRIER NOT-ADV-PCLE LINK *-1 (Sg Nom) BARRIER NOT-ADV-PCLE LINK *-1 BOC2 OR CP BARRIER NOT-ADV-PCLE)(1 CLB OR EOS);
+SELECT:r1770 (A Sg Nom) - Err/Any IF (*-1 COPULAS BARRIER NOT-ADV-PCLE LINK *-1 (Sg Nom) BARRIER NOT-ADV-PCLE LINK *-1 BOC2 OR CP BARRIER NOT-ADV-PCLE)(1 CLB OR EOS);
 	## Jos viessu lea dohkálaš, de ráfi orru dan badjel.
 	## Vuoigŋa gal lea geargat, muhto oažži lea headju.
 
-SELECT:r1771 (A Sg Nom) - Err/Lex IF (*-1 COPULAS BARRIER NOT-ADV-PCLE LINK *-1 (Sg Nom) BARRIER NOT-ADV-PCLE LINK *-1 BOC2 OR CP BARRIER NOT-ADV-PCLE)(*1 COPULAS BARRIER NOT-ADV-PCLE LINK *1 CLB OR EOS BARRIER NOT-ADV-PCLE);
+SELECT:r1771 (A Sg Nom) - Err/Any IF (*-1 COPULAS BARRIER NOT-ADV-PCLE LINK *-1 (Sg Nom) BARRIER NOT-ADV-PCLE LINK *-1 BOC2 OR CP BARRIER NOT-ADV-PCLE)(*1 COPULAS BARRIER NOT-ADV-PCLE LINK *1 CLB OR EOS BARRIER NOT-ADV-PCLE);
 	## ...dan dihte go geassegollebivdu lei áibbas heittot leamaš,...
 
-SELECT:r1772 (A Sg Nom) - Err/Orth - Err/Lex IF (*-1 COPULAS + Sg3 OR COPULAS + Inf OR COPULAS + PrfPrc BARRIER NOT-ADV-PCLE LINK *-1 (N Sg Nom) OR (Pron Sg Nom) OR (Sg1 Nom) OR (Sg2 Nom) OR (Sg3 Nom) BARRIER S-BOUNDARY2 LINK NOT 0 Ess)(NEGATE 0 N OR Inf OR Adv)(NEGATE 1 VERB)(NEGATE 1 CC LINK 1 Adv)(NEGATE *1 N BARRIER NPNH);	
+SELECT:r1772 (A Sg Nom) - Err/Orth - Err/Any IF (*-1 COPULAS + Sg3 OR COPULAS + Inf OR COPULAS + PrfPrc BARRIER NOT-ADV-PCLE LINK *-1 (N Sg Nom) OR (Pron Sg Nom) OR (Sg1 Nom) OR (Sg2 Nom) OR (Sg3 Nom) BARRIER S-BOUNDARY2 LINK NOT 0 Ess)(NEGATE 0 N OR Inf OR Adv)(NEGATE 1 VERB)(NEGATE 1 CC LINK 1 Adv)(NEGATE *1 N BARRIER NPNH);	
 	## Mun in leat dohkálaš ahte don boađášit mu vissui.
 	#$GRAM Baráhkat, main dušše ovtta ledje geargan sihkastit fiskes málain, orro leamen {buhttásat}.
 
@@ -15527,19 +15527,19 @@ SELECT:r1777 (Sg Nom) - Err/Orth - Err/Lex  IF (*-1 Ill BARRIER NOT-ADV-PCLE LIN
     #$ Konsultašuvnnat leat čađahuvvon golggotmánu 2010 rájes ii ge ášši leat leamaš meannudeapmái dievasčoahkkimis dan ovdal.
     #$ Okta vuođđokreatsa lea sturrodahkii seamma stuoris go okta skuvlakreatsa.
 
-SELECT:r1778 (A Pl Nom) - Err/Lex IF (*-1 (N Pl Nom) BARRIER NOT-ADV-PCLE OR CLB LINK *-1 COPULAS BARRIER SV-BOUNDARY);
+SELECT:r1778 (A Pl Nom) - Err/Any IF (*-1 (N Pl Nom) BARRIER NOT-ADV-PCLE OR CLB LINK *-1 COPULAS BARRIER SV-BOUNDARY);
 	## Mánnáguoddi-spagáin leat spahká-oaivvit sakka guhkibut.
 	## Dán oktavuođas leat dološ geavahusa njuolggadusat miellagiddevaččat.
 
-SELECT:r1779 (A Pl Nom) - Err/Lex IF (*-1 COPULAS BARRIER SV-BOUNDARY LINK *-1 (V Neg) BARRIER NOT-ADV-PCLE LINK 0 V-DU-PL)(NEGATE 0 N)(NEGATE 1 VERB OR A); #(NEGATE 1 N);
+SELECT:r1779 (A Pl Nom) - Err/Any IF (*-1 COPULAS BARRIER SV-BOUNDARY LINK *-1 (V Neg) BARRIER NOT-ADV-PCLE LINK 0 V-DU-PL)(NEGATE 0 N)(NEGATE 1 VERB OR A); #(NEGATE 1 N);
 	## Sis-Finnmárkku dikkit maŋŋilgo Norga badjelasas válddii sorjjas-
 	## meahttunvuođa dán guovllus, eai šat lean seamma dehálaččat 
 	## sápmelaččaid gaskkas go ovdal.
 
-SELECT:r1780 (A Sg Nom) - Err/Lex IF (*-1 BOS OR REALCLB BARRIER NOT-CC)(1 (Dem Sg Nom) OR MUN OR DON OR SON); 
+SELECT:r1780 (A Sg Nom) - Err/Any IF (*-1 BOS OR REALCLB BARRIER NOT-CC)(1 (Dem Sg Nom) OR MUN OR DON OR SON); 
 	## Ja ávdugas son guhte oskkui.
  
-SELECT:r1781 (A Pl Nom) - Err/Lex IF (*-1 BOS OR REALCLB BARRIER NOT-CC)(*1 NP-HEAD-PL-NOM BARRIER NPNH);
+SELECT:r1781 (A Pl Nom) - Err/Any IF (*-1 BOS OR REALCLB BARRIER NOT-CC)(*1 NP-HEAD-PL-NOM BARRIER NPNH);
 	## Ávdugasat sii geat moraštit.
 
 SELECT (A Nom) - Err/Lex (-1 go LINK -1 (A Nom) LINK *-1 COPULAS BARRIER S-BOUNDARY)(0 VERB LINK NEGATE 1 N);
@@ -15553,10 +15553,10 @@ REMOVE:r1783 (A Attr) IF (-1 COPULAS)(0 Nom)(1C (Pron Rel));
 REMOVE:r1784 VFIN IF (*-1 COPULAS BARRIER NOT-ADV-INDEF)(0 Attr)(1 N OR EOS);
 	## Joddu suhppejuvvo go doaris lea gárvvis.	
 
-SELECT:r1785 A - Err/Lex IF (*-1 COPULAS BARRIER NOT-ADV-INDEF)(NEGATE 0 VERB OR Ord OR N OR Adv)(1 N OR EOS);
+SELECT:r1785 A - Err/Any IF (*-1 COPULAS BARRIER NOT-ADV-INDEF)(NEGATE 0 VERB OR Ord OR N OR Adv)(1 N OR EOS);
 	## ...de dilli orru leamen earalágan.
 
-SELECT:r1786 A - Err/Lex IF (-2 (N Sg Nom))(-1 ("leat" Sg3))(NEGATE 0 N OR PrfPrc OR Inf)(NEGATE 0 Ill LINK 1 PrfPrc)(NEGATE 0 Adv LINK 1 A)(NEGATE 0 Adv LINK *1 (Actio Ess) OR PrfPrc OR Inf); 
+SELECT:r1786 A - Err/Any IF (-2 (N Sg Nom))(-1 ("leat" Sg3))(NEGATE 0 N OR PrfPrc OR Inf)(NEGATE 0 Ill LINK 1 PrfPrc)(NEGATE 0 Adv LINK 1 A)(NEGATE 0 Adv LINK *1 (Actio Ess) OR PrfPrc OR Inf); 
 	## Sin váilevaš oahppu ja giellamáhttu lea guhkit áiggi leamaš heađušteaddjin. 
 	#$ Liná lei fáhkka dego luovos áimmus girdimin.	
 	#GRAM (NEGATE 0 Adv LINK *1 (Actio Ess) OR PrfPrc OR Inf)
@@ -18659,7 +18659,8 @@ LIST JAMAS-VERB = "báhčit" "báhkkanit" "ballat" "barggahit" "bargat" "beahtta
 
 LIST <jámas> = <jámas> ;
 
-SELECT:r2361 (N Sg Nom) - Err/Any - <NomGenSg> IF (*-1 V-SG3 BARRIER NPNHAIIP OR CP LINK NOT 0 (Imprt Sg2) LINK *-1 BOC2 BARRIER Nom LINK NOT 0 Nom)(NEGATE -1 ("buorre" Acc))(NEGATE 0 VFIN OR PrfPrc OR Indef OR Gen OR Ill OR Loc OR (Actio Ess) OR Po OR (A Nom) OR Inf)(NEGATE 1 ("ahte"))(NEGATE 0 Loc LINK *1 NP-HEAD-NOM BARRIER NPNH)(NEGATE 0 PrsPrc LINK 1 (N Sg Nom))(NEGATE 0 Attr LINK 1 N)(NEGATE 0 ("vuostá") LINK -1 COPULAS LINK -1 CS LINK 3 CLB)(NEGATE 0 JAMAS-VERB OR <jámas> LINK 0 TV LINK *1 ("japmat" Der/st) OR ("japma" N Sg) BARRIER NPNHA);
+SELECT:r2361 (N Sg Nom) - Err/Any - <NomGenSg> - Px IF (*-1 V-SG3 BARRIER NPNHAIIP OR CP LINK NOT 0 (Imprt Sg2) LINK *-1 BOC2 BARRIER Nom LINK NOT 0 Nom)(NEGATE -1 ("buorre" Acc))(NEGATE 0 VFIN OR PrfPrc OR Indef OR Gen OR Ill OR Loc OR (Actio Ess) OR Po OR (A Nom) OR Inf)(NEGATE 1 ("ahte"))(NEGATE 0 Loc LINK *1 NP-HEAD-NOM BARRIER NPNH)(NEGATE 0 PrsPrc LINK 1 (N Sg Nom))(NEGATE 0 Attr LINK 1 N)(NEGATE 0 ("vuostá") LINK -1 COPULAS LINK -1 CS LINK 3 CLB)(NEGATE 0 JAMAS-VERB OR <jámas> LINK 0 TV LINK *1 ("japmat" Der/st) OR ("japma" N Sg) BARRIER NPNHA);
+		#$GRAM BÁHCCAVUOTNA: Mannodaga čuvggodettiin gaiko suollagat viesu Sieđganjárggas.
     	## Guovddášis dán bárggus lea Sámi dutkamiid guovddáš.
     	## Riikkaid galgá Piera oaidnit.
         #$ Dego livččii vuostá.
@@ -20125,7 +20126,7 @@ SELECT:r2692 Loc - Err/Any IF (*-1 LOCV BARRIER SV-BOUNDARY2 OR COM-HEAD LINK NO
 	##	NSR/SáB Nuortaguovllu válgabiire sámediggeáirras Trond Are Anti čilge ahte dát hástalus lea ovddiduvvon ođđa áššiin ja jerron ovdalis ráđis Sámedikki dievasčoahkkimis.
 	#GRAM
 
-SELECT:r2694 Loc  - Err/Orth - Err/Lex IF (*-1 ACC-LOC-V BARRIER NOT-NP);
+SELECT:r2694 Loc  - Err/Orth - Err/Any IF (*-1 ACC-LOC-V BARRIER NOT-NP);
 	## Sáhttá viežžat dieđuid divššohasa oapmahaččain. 
 	# Removed "viežžat" from ACC-LOC-V, because it can take Com: "Mun vižžen su biillain."
 	
@@ -20852,9 +20853,9 @@ SELECT:r2887 (Imprt Pl2) - Err/Any IF (*1 (PxPl2) BARRIER S-BOUNDARY2);
 
 	# Imperative in coordination
 	# --------------------------
-SELECT:r2889 Imprt - Err/Any IF (NEGATE 0 V-SG3 LINK -1 COMMA LINK *-1 V-SG3 BARRIER SV-BOUNDARY2)(-1 BOS OR COMMA)(*1 COMMA LINK 1 Imprt)(NEGATE 0 (A Attr) LINK 1 N)(NEGATE 0 (Ind Prs Pl3));
+SELECT:r2889 Imprt - Err/Any IF (NEGATE 0 V-SG3 LINK -1 COMMA LINK *-1 V-SG3 BARRIER SV-BOUNDARY2)(-1 BOS OR COMMA)(*1 COMMA LINK 1 Imprt)(NEGATE 0 (A Attr) LINK 1 N)(NEGATE 0 (Ind Prs Pl3) OR (N Nom));
 	## Bohtet, goddot su, de mii oažžut su árbbi.
-	#GRAM
+	#$GRAM Guossit geat áigot leat sámediggeviesus, erret sii geat áigot leat publikumareálan, vrd.
 
 SELECT:r2890 Imprt - Err/Any IF (NEGATE *-1 VFIN-NOT-IMP BARRIER SV-BOUNDARY2)(NEGATE 0 PrfPrc)(*1 CC BARRIER VFIN LINK *1C Imprt BARRIER SV-BOUNDARY2)(NEGATE 0 (Ind Prs Pl3));
 	## Čoavdi daid ja bukti mu lusa!
@@ -21037,9 +21038,10 @@ SELECT:r2928 V-SG3  - Err/Any IF (-1 CLB)(NEGATE 0 Adv)(NEGATE 0 Pl3 LINK *1 (Pl
 SELECT:r2929 V-SG3  - Err/Any IF (*-1 (N Sg Nom) BARRIER NOT-ADV-PCLE)(0 (N Sg Ill))(NEGATE 0 Pl3 LINK *1 (Pl Nom) BARRIER NOT-ADV-PCLE)(*1 Acc BARRIER NPNH);
 	## Dalle isit gohčui bálvaleaddji fas lusas.
 
-SELECT:r2930 V-SG3  - Err/Any IF (NEGATE *-1 V-SG3)(*1 CC BARRIER V-SG3 LINK 1 V-SG3 LINK NOT 1 Der/Pass)(NEGATE 0 Pl3 LINK *1 (Pl Nom) BARRIER NOT-ADV-PCLE)(NEGATE 0t Err/Any);
+SELECT:r2930 V-SG3  - Err/Any IF (NEGATE *-1 V-SG3)(*1 CC BARRIER V-SG3 LINK 1 V-SG3 LINK NOT 0 V-PL3 LINK NOT 1 Der/Pass)(NEGATE 0 Pl3 LINK *1 (Pl Nom) BARRIER NOT-ADV-PCLE)(NEGATE 0t Err/Any)(NEGATE 0 (V Sg3 Der/PassS) LINK 0 (V Ind Pl3));
 	## De gohčui sisa oskkolaččaid oktan leaskkaiguin ja čájehii sidjiide...
     #$GRAM Muhto go eai báhčalan nu guhkká ja lei mealgat dohko vuoddjit, de eat vuolgán geahččat, muitalit Guovdageainnu leansmánni kántuvrras.
+    #$GRAM Geahččit čaibme ja spežžo gieđaid ja orro liikomin šovvii.
 
 	# Infinitive and clausal subject
 	# - - - - - - - - - - - - - - - -

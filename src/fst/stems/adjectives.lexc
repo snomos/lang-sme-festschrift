@@ -7057,6 +7057,7 @@ roaggajienat+A+CmpN/SgN+CmpN/PlG+Sem/Hum:roagga#jien AGAdj ;
 roahkkalas+A+CmpN/SgN+CmpN/PlG+Sem/Hum:roahkkal ISSORAS ;
 roahkkat+A+CmpN/SgN+CmpN/PlG+Sem/Hum:roahkk CAHKK ;
 roahkkenjunat+A+CmpN/SgN+CmpN/PlG+Sem/Hum:roahkke#njun AGAdj "nosed A" ;
+snuolganjunat+A+CmpN/SgN+CmpN/PlG+Sem/Hum:snuolga#njun AGAdj "nosed A" ;
 roahkkálas+A+Sem/Dummytag:roahkkálas LEXATTR ;
 roaibbas+A+CmpN/SgN+CmpN/PlG+Sem/Hum:roajºbas BOAKKAS ;
 roaiskkas+A+CmpN/SgN+CmpN/PlG+Sem/Hum:roajsºkas BOAKKAS ;
@@ -8320,6 +8321,7 @@ temáhtalaš+A+Err/Orth+Sem/Dummytag:tematal DABALAS ; ! What is this?
 temáhtalaš+A+Sem/Dummytag:temáhtal ETNOLOGALAS ;
 teologalaš+A+Sem/Dummytag:teologal ETNOLOGALAS ;
 teorehtalaš+A+Sem/Dummytag:te^orehtal DABALAS ;
+giellateorehtalaš+A+Sem/Dummytag:giella#te^orehtal DABALAS ;
 terminatiiva+A+Sem/Dummytag:terminat IIVA_A ;
 termála+A+Sem/Dummytag:termála BOREALA ;
 territoriealla+A+Sem/Dummytag:territori^ealla BOREALA ;

@@ -1222,6 +1222,7 @@ duostat+Err/Orth:duosta BORRA_TV ;
 duostut:duosºtu DEAKCU_TV ;
 duovgut:duovºgu DIEVVA_IV ;
 duovlut:duovºlu BORRA_TV ;
+duovlut+V+TV+PrfPrc+Err/Orth:duvlen K ;
 duođaštit+Err/Orth:duođast MUITAL_TV ; !
 duođaštit+Err/Orth:duodašt MUITAL_TV ; !
 duođaštit+Err/Orth:duođaš MUITAL_TV ; !
@@ -2030,7 +2031,11 @@ hárddáhallat+v2:hárddáhadda RAIMMAHALLA_IV ;
 hárddáhallat+v1:hárddahalla RAIMMAHALLA_IV ;
 hárddáhallat+v2:hárddahadda RAIMMAHALLA_IV ;
 gásset:gásse DOHPPE_TV ;
+virket:virke DOHPPE_TV ;
+jorgalit+V+TV+Inf+Err/Orth:jorgali K ;
+beaggit+V+IV+Ind+Prs+Sg3+Err/Orth:beakká K ;
 gástat:gásºta DIEVVA_IV ;
+rádjamearridit+Ex/V+Ex/TV+Gram/3syll+Der/PassL+V+IV+Inf:rádja#mearriduvvot K ;
 gásttašahttit:gásttašahtti HAHTTIT_TV ;
 gásttašit:gásttaš MUITTASJ_TV ;
 gásttašit+Err/Orth:gástaš MUITTASJ_TV ;
@@ -2133,10 +2138,12 @@ heŋget:heŋge DOHPPE_TV ;
 hiddjidit:hiddjid MUITAL_TV ;
 hiehpat:hiehºpa DIEVVA_IV ;
 hilbošit:hilboš BEAGASJ_IV ;
+boahtit+V+IV+Actio+Loc+Err/Orth:boahtemis ;
 hilgut:hilºgu DAHTU_TV ;
 hilgut+V+TV+Der1+Der/PassS:hilgo BASSO_IV ;
 himihit:himih ALIST_IV ;
 himáhallat:himáhalla BOAHTALADDA_IV ;
+himáhallat+Err/Orth:himohalla BOAHTALADDA_IV ;
 hirdnut:hirdnu ALLU_IV ;
 hirpmahit:hirpmah MUITAL_TV ;
 hirpmahuvvat+Err/Orth-a-á:hirpmáh UVVA_IV ; !
@@ -6331,6 +6338,7 @@ albmaduvvat:albmad UVVA_IV ;
 agáiduvvat:agáid UVVA_IV ;
 heaŋggaidahttit:heaŋggaidahtti HAHTTIT_TV ;
 čivgat:čivºga DIEVVA_IV ;
+galmmašit:galmmaš MUITTASJ_TV ;
 
 
 
@@ -8928,7 +8936,6 @@ galljut:gallju BARGU_IV ;
 galljánit:gallján LASSAN_IV ;
 galmmadit:galmmad BONJAT_TV ;
 galmmastuhttit:galmmastuhtti HAHTTIT_TV ;
-galmmašit:galmmaš MUITTASJ_TV ;
 galmmestit:galmme7st COASKKIT_IV ;
 galmmiidit:galmmijd JORGGIID_IV ;
 galmmistit:galmmist ALIST_IV ;
